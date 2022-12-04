@@ -188,7 +188,7 @@
 		"cities": ["Vancouver"]
 	},
 	
-	//Venice
+	//Mercantile
 	{
 		"name": "Venice",
 		"adjective": ["Venetian"],
@@ -202,7 +202,6 @@
 		"innerColor": [153,204,255],
 		"cities": ["Venice"]
 	},
-
 	{
 		"name": "Antwerp",
 		"adjective": ["Antwerp"],
@@ -293,7 +292,7 @@
 	{
 		"name": "Mogadishu",
 		"adjective": ["Mogadishu"],
-		"cityStateType": "Mercantile",
+		"cityStateType": "Mogadishu-type",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -302,6 +301,7 @@
 		"innerColor": [224,224,224],
 		"cities": ["Mogadishu"]
 	},
+	
 	
 	//Militaristic
 	{

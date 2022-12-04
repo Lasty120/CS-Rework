@@ -3,16 +3,16 @@
 	{
         "name": "Florence-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+5]% [Culture] from every [Monument]",
 			"[+5]% [Culture] from every [Amphitheater]"
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+5]% [Culture] from every [Monument]",
 			"[+5]% [Culture] from every [Amphitheater]",				
 			"[+5]% [Culture] from every [Opera House]",
@@ -23,15 +23,15 @@
 	{
         "name": "Hanoi-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] per [1] social policies adopted"
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] per [1] social policies adopted"
         ],
         "color": [139, 96, 255]
@@ -39,15 +39,15 @@
 	{
         "name": "Kuala Lumpur-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Mine]"
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Mine]",
 			"[+1 Culture] from every [Strategic resource]"
         ],
@@ -56,15 +56,15 @@
 	{
         "name": "Lhasa-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Shrine]"
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Shrine]", 
 			"[+2 Culture] from every [Temple]"
         ],
@@ -73,15 +73,15 @@
 	{
         "name": "Milan-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every [Walls]"
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every [Walls]",
 			"[+2 Culture] from every [Castle]",
         ],
@@ -90,15 +90,15 @@
 	{
         "name": "Quebec-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every specialist [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every specialist [in all cities]",
 			"[+2 Gold] from every [Artist]"
         ],
@@ -107,14 +107,14 @@
 	{
         "name": "Caguana-type",
         "friendBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>"
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques": [
-            "[+2 Culture] <before the [Medieval era]>",
-            "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Culture] <starting from the [Industrial era]>",
+            "[+4 Culture] <before the [Medieval era]>",
+            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Culture] <starting from the [Industrial era]>",
 			"All newly-trained [Worker] units [in all cities] receive the [Batey Construct] promotion"
         ],
         "color": [139, 96, 255]
@@ -308,6 +308,23 @@
         "color": [255, 216, 0]
     },
     {
+        "name": "Mogadishu-type",
+        "friendBonusUniques": [
+            "[+2 Gold] <before the [Medieval era]>",
+            "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Gold] <starting from the [Industrial era]>",
+			"[+1 Gold] from every [Luxury resource]",
+        ],
+        "allyBonusUniques": [
+            "[+2 Gold] <before the [Medieval era]>",
+            "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Gold] <starting from the [Industrial era]>",
+            "Provides a unique luxury",
+			"[+2 Gold] from every [Luxury resource]",
+        ],
+        "color": [255, 216, 0]
+    },
+    {
         "name": "Samarkand-type",
         "friendBonusUniques": [
             "[+2 Gold] <before the [Medieval era]>",
@@ -437,15 +454,15 @@
     {
         "name": "Bratislava-type",
         "friendBonusUniques":  [
-            "[+2 Faith] <before the [Medieval era]>",
-            "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Faith] <starting from the [Industrial era]>",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
 			"[Gold] cost of purchasing items in cities [-25]%"
         ],
         "allyBonusUniques":  [
-            "[+2 Faith] <before the [Medieval era]>",
-            "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Faith] <starting from the [Industrial era]>",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
 			"[Gold] cost of purchasing items in cities [-25]%",
 			"[Faith] cost of purchasing items in cities [-25]%"
         ],
@@ -454,15 +471,15 @@
     {
         "name": "Jerusalem-type",
         "friendBonusUniques":  [
-            "[+2 Faith] <before the [Medieval era]>",
-            "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Faith] <starting from the [Industrial era]>",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
 			"[+34]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+2 Faith] <before the [Medieval era]>",
-            "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Faith] <starting from the [Industrial era]>",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
 			"[+34]% Natural religion spread [in all cities]",
 			"[+34]% Spread Religion Strength"
         ],
@@ -471,14 +488,14 @@
     {
         "name": "Cahokia-type",
         "friendBonusUniques":  [
-            "[+2 Faith] <before the [Medieval era]>",
-            "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Faith] <starting from the [Industrial era]>",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques":  [
-            "[+2 Faith] <before the [Medieval era]>",
-            "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Faith] <starting from the [Industrial era]>",
+            "[+4 Faith] <before the [Medieval era]>",
+            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Faith] <starting from the [Industrial era]>",
 			"All newly-trained [Worker] units [in all cities] receive the [Cahokian Mounds Construct] promotion"
         ],
         "color": [255, 255, 255]
