@@ -1,0 +1,85 @@
+Each City States inherit its major type effect (i.e CS in Cultured Section will inherit stated effect in Cultured)
+
+Cultured: "[+2 Culture] <before the [Medieval era]>",
+          "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+8 Culture] <starting from the [Industrial era]>",
+		  
+1. Florence Friend: +5% Culture from every Monument and Amphitheater
+   Florence Ally: +5% Culture from every Monument, Amphitheater, Opera House, and Museum
+2. Hanoi Friend: +1 Culture per 1 social policy adopted
+   Hanoi Ally: +2 Culture per 1 social policy adopted
+3. Kuala Lumpur Friend: +1 Culture form every Mine
+   Kuala Lumpur Ally: Friend bonus and +1 Culture from every Strategic resource
+4. Lhasa Friend : +1 Culture from every Shrine
+   Lhasa Ally: Friend bonus and +2 Culture from every Temple
+5. Milan Friend: +2 Culture from Walls
+   Milan Ally: Friend bonus and +2 Culture from Castle
+6. Quebec Friend: +2 Culture from specialists in all cities
+   Quebec Ally: Friend bonus and +2 Gold from every Artist
+7. Caguana Ally: Newly-trained Worker can construct Batey improvement
+
+Maritime: "[+2 Food] [in capital]"
+
+1. Cape Town Friend: +1 Food from every Citrus and Wine
+   Cape Town Ally: +1 Food from Plantation
+2. Helsinki Friend: +10% Growth in all cities
+   Helsinki Ally: +20% Growth in all cities
+3. Manila Ally: +1 Food from every Lakes
+   Manila Ally: Friend bonus and +1 Culture from every Water resource
+4. Rio de Janeiro Friend: +1 Food from every Fishing Boats
+   Rio de Janeiro Ally: Friend bonus and +1 Production from every Fishing Boats
+5. Sydney Friend: +1 Gold from every Monument and Amphitheater
+   Sydney Ally: Friend bonus and +1 from every Opera House and Museum
+6. Ur Friend: 10% Food is carried over after population increase in all cities
+   Ur Ally: 20% Food is carried over after population increase in all cities
+7. Vancouver Friend: +2 Gold in cities on River tile
+   Vancouver Ally: Friend bonus and +2 Gold in cities on Coastal tile
+
+Mercantile: "[+2 Gold] <before the [Medieval era]>",
+            "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Gold] <starting from the [Industrial era]>",
+			If Ally "Provides a unique luxury"
+
+1. Antwerp Friend: +1 Gold from Lighthouse, Harbor, and Seaport
+   Antwerp Ally: +2 Gold from Lighthouse, Harbor, and Seaport
+2. Venice Friend: +1 Gold from each trade route
+   Venice Ally: +2 Gold from each trade route
+3. Genoa Friend: +10% Production when constructing Military Water units
+   Genoa Ally: +25% Production when constructing Military Water units
+4. Kathmandu Friend: +2 Culture and Faith from every Mountain
+   Kathmandu Ally: +3 Culture and Faith from every Mountain
+5. Tyre Friend: +1 Gold and Culture in cities with a World Wonder
+   Tyre Ally: +2 Gold and Culture in cities with a World Wonder
+6. Zanzibar Friend: +1 Gold from every Luxury resource
+   Zanzibar Ally: +2 Gold from every Luxury resource
+7. Samarkand Ally: Newly-trained Worker can construct Trading Dome improvement
+
+Militaristic: "Provides military units every ≈[20] turns"
+
+1. Almaty Friend: +3% Production from every Barracks, Armory, and Military Academy
+   Almaty Ally: +5% Production from every Barracks, Armory, and Military Academy
+2. Belgrade Friend: +75% Yield from Land tiles with Fort
+   Belgrade Ally: +150% Yield from Land tiles with Fort
+3. M'Banza-Kongo Friend: +10% Strength for Melee units
+   M'Banza-Kongo Ally: +20% Strength for Melee units
+4. Sidon Friend: +50% Production when constructing Walls, Castle, Arsenal, and Military Base
+   Sidon Ally: +100% Production when constructing Walls, Castle, Arsenal, and Military Base
+5. Valetta Friend: +25% Strength vs Cities
+   Valetta Ally: +50% Strength vs Cities
+6. Kabul Friend: +50% XP gained from combat when attacking
+   Kabul Ally: +100% XP gained from combat when attacking
+7. Granada Ally: Newly-trained Worker can construct Alcazar improvement
+
+Religious: "[+2 Faith] <before the [Medieval era]>",
+           "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+           "[+8 Faith] <starting from the [Industrial era]>",
+
+1. Bratislava Friend: Gold cost of purchasing items -25%
+   Bratislava Ally: Friend bonus and Faith cos of purchasing items -25%
+2. Jerusalem Friend: +34% Natural religion spread in all cities 
+   Jerusalem Ally: Friend bonus and +34% Spread religion Strength
+3. Cahokia Ally: Newly-trained Worker can construct Cahokian Mounds improvement
+
+
+
+
