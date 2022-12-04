@@ -1,8 +1,8 @@
 Each City States inherit its major type effect (i.e CS in Cultured Section will inherit stated effect in Cultured)
 
-Cultured: "[+2 Culture] <before the [Medieval era]>",
-          "[+4 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+8 Culture] <starting from the [Industrial era]>",
+Cultured: "[+4 Culture] <before the [Medieval era]>",
+          "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+16 Culture] <starting from the [Industrial era]>",
 		  
 1. Florence Friend: +5% Culture from every Monument and Amphitheater
    Florence Ally: +5% Culture from every Monument, Amphitheater, Opera House, and Museum
@@ -70,9 +70,9 @@ Militaristic: "Provides military units every ≈[20] turns"
    Kabul Ally: +100% XP gained from combat when attacking
 7. Granada Ally: Newly-trained Worker can construct Alcazar improvement
 
-Religious: "[+2 Faith] <before the [Medieval era]>",
-           "[+4 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-           "[+8 Faith] <starting from the [Industrial era]>",
+Religious: "[+4 Faith] <before the [Medieval era]>",
+           "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+           "[+16 Faith] <starting from the [Industrial era]>",
 
 1. Bratislava Friend: Gold cost of purchasing items -25%
    Bratislava Ally: Friend bonus and Faith cos of purchasing items -25%
