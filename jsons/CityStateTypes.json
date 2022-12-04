@@ -279,14 +279,14 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-			"[+1 Gold, +1 Culture] [in all cities] <in cities with a [World Wondeer]>",
+			"[+1 Gold, +1 Culture] [in all cities] <in cities with a [World Wonder]>",
         ],
         "allyBonusUniques": [
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-			"[+2 Gold, +2 Culture] [in all cities] <in cities with a [World Wondeer]>",
+			"[+2 Gold, +2 Culture] [in all cities] <in cities with a [World Wonder]>",
         ],
         "color": [255, 216, 0]
     },
