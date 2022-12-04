@@ -115,7 +115,7 @@
             "[+4 Culture] <before the [Medieval era]>",
             "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Culture] <starting from the [Industrial era]>",
-			"All newly-trained [Worker] units [in all cities] receive the [Batey Construct] promotion"
+			"[Civilian] units gain the [Batey Construct] promotion"
         ],
         "color": [139, 96, 255]
     },
@@ -336,7 +336,7 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-			"All newly-trained [Worker] units [in all cities] receive the [Trading Dome Construct] promotion"
+			"[Civilian] units gain the [Trading Dome Construct] promotion"
         ],
         "color": [255, 216, 0]
     },
@@ -442,7 +442,7 @@
 		],
         "allyBonusUniques": [
 			"Provides military units every ≈[20] turns"
-			"All newly-trained [Worker] units [in all cities] receive the [Alcazar Construct] promotion"
+			"[Civilian] units gain the [Alcazar Construct] promotion"
 		],
         "color": [255, 0, 0]
     },
@@ -496,7 +496,7 @@
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
-			"All newly-trained [Worker] units [in all cities] receive the [Cahokian Mounds Construct] promotion"
+			"[Civilian] units gain the [Cahokian Mounds Construct] promotion"
         ],
         "color": [255, 255, 255]
     },
