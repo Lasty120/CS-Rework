@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Batey Construct",
+		"uniques": ["Can construct [Batey]"]
+	},	
+	{
+		"name": "Trading Dome Construct",
+		"uniques": ["Can construct [Trading Dome]"]
+	},	
+	{
+		"name": "Alcazar Construct",
+		"uniques": ["Can construct [Alcazar]"]
+	},	
+	{
+		"name": "Cahokian Mounds Construct",
+		"uniques": ["Can construct [Cahokian Mounds]"]
+	},	
+]
