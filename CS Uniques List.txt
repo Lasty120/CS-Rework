@@ -16,7 +16,7 @@ Cultured: "[+4 Culture] <before the [Medieval era]>",
    Milan Ally: Friend bonus and +2 Culture from Castle
 6. Quebec Friend: +2 Culture from specialists in all cities
    Quebec Ally: Friend bonus and +2 Gold from every Artist
-7. Caguana Ally: Newly-trained Worker can construct Batey improvement
+7. Caguana Ally: Newly-trained Civilian can construct Batey improvement
 
 Maritime: "[+2 Food] [in capital]"
 
@@ -52,7 +52,7 @@ Mercantile: "[+2 Gold] <before the [Medieval era]>",
    Tyre Ally: +2 Gold and Culture in cities with a World Wonder
 6. Zanzibar Friend: +1 Gold from every Luxury resource
    Zanzibar Ally: +2 Gold from every Luxury resource
-7. Samarkand Ally: Newly-trained Worker can construct Trading Dome improvement
+7. Samarkand Ally: Newly-trained Civilian can construct Trading Dome improvement
 
 Militaristic: "Provides military units every ≈[20] turns"
 
@@ -68,7 +68,7 @@ Militaristic: "Provides military units every ≈[20] turns"
    Valetta Ally: +50% Strength vs Cities
 6. Kabul Friend: +50% XP gained from combat when attacking
    Kabul Ally: +100% XP gained from combat when attacking
-7. Granada Ally: Newly-trained Worker can construct Alcazar improvement
+7. Granada Ally: Newly-trained Civilian can construct Alcazar improvement
 
 Religious: "[+4 Faith] <before the [Medieval era]>",
            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
@@ -78,7 +78,7 @@ Religious: "[+4 Faith] <before the [Medieval era]>",
    Bratislava Ally: Friend bonus and Faith cos of purchasing items -25%
 2. Jerusalem Friend: +34% Natural religion spread in all cities 
    Jerusalem Ally: Friend bonus and +34% Spread religion Strength
-3. Cahokia Ally: Newly-trained Worker can construct Cahokian Mounds improvement
+3. Cahokia Ally: Newly-trained Civilian can construct Cahokian Mounds improvement
 
 
 
