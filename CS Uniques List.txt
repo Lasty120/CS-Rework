@@ -35,7 +35,9 @@ Maritime: "[+2 Food] [in capital]"
 7. Vancouver Friend: +2 Gold in cities on River tile
    Vancouver Ally: Friend bonus and +2 Gold in cities on Coastal tile
 
-Mercantile: "[+2 Gold] <before the [Medieval era]>",
+Mercantile: "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
+			"[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			If Ally "Provides a unique luxury"
@@ -80,6 +82,23 @@ Religious: "[+4 Faith] <before the [Medieval era]>",
    Jerusalem Ally: Friend bonus and +34% Spread religion Strength
 3. Cahokia Ally: Newly-trained Civilian can construct Cahokian Mounds improvement
 
+Scientific: "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+
+1. Anshan Friend: +1 Science from every Libraray and University
+   Anshan Ally: Friend bonus and +2 Science from every Public School and Research Lab
+2. Bologna Friend: +5 HP when healing
+   Bologna Ally: +8 HP when healing
+3. Fez Friend: When spreading religion to a city, gain 5 times the amount of followers of other religion as Science
+   Fez Ally: When spreading religion to a city, gain 10 times the amount of followers of other religion as Science
+4. Geneva Friend: +10% Science when not at war
+   Geneva Ally: +20% Science when not at war
+5. Mitla Friend: +25 Gold and Science whenever a Great Person is expended
+   Mitla Ally: +50 Gold and Science whenever a Great Person is expended
+6. Hattusa Friend: +1 Science from Great Improvement
+   Hattusa Ally: +2 Science from Great Improvement
+7. Nalanda Ally: Newly-trained Civilian can construct Mahavihara improvement
 
 
 
