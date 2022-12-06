@@ -34,7 +34,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,0,255],
+		"innerColor": [34,195,255],
 		"cities": ["Hanoi"]
 	},
 	{
@@ -59,7 +59,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [204,102,0],
+		"innerColor": [204,65,156],
 		"cities": ["Lhasa"]
 	},
 	{
@@ -71,7 +71,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [185,132,66],
+		"innerColor": [185,23,178],
 		"cities": ["Milan"]
 	},
 	{
@@ -83,7 +83,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [51,102,0],
+		"innerColor": [233,23,176],
 		"cities": ["Quebec City"]
 	},
 	{
@@ -95,7 +95,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We were too weak to protect ourselves...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [20,150,35],
+		"innerColor": [125,24,234],
 		"cities": ["Caguana"]
 	},
 
@@ -426,4 +426,91 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
+	
+	//Scientific
+	{
+		"name": "Anshan",
+		"adjective": ["Anshan"],
+		"cityStateType": "Anshan-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,192],
+		"cities": ["Anshan"]
+	},
+	{
+		"name": "Bologna",
+		"adjective": ["Bologna"],
+		"cityStateType": "Bologna-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,146],
+		"cities": ["Bologna"]
+	},
+	{
+		"name": "Fez",
+		"adjective": ["Fez"],
+		"cityStateType": "Fez-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,234],
+		"cities": ["Fez"]
+	},
+	{
+		"name": "Geneva",
+		"adjective": ["Geneva"],
+		"cityStateType": "Geneva-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,132],
+		"cities": ["Geneva"]
+	},
+	{
+		"name": "Mitla",
+		"adjective": ["Mitla"],
+		"cityStateType": "Mitla-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,54,192],
+		"cities": ["Mitla"]
+	},
+	{
+		"name": "Hattusa",
+		"adjective": ["Hattusa"],
+		"cityStateType": "Hattusa-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,32,192],
+		"cities": ["Hattusa"]
+	},
+	{
+		"name": "Nalanda",
+		"adjective": ["Nalanda"],
+		"cityStateType": "Nalanda-type",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,65,192],
+		"cities": ["Nalanda"]
+	},
+	
 ]

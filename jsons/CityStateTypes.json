@@ -204,12 +204,16 @@
     {
         "name": "Venice-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+1 Gold] from each Trade Route"
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -221,6 +225,8 @@
     {
         "name": "Antwerp-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -229,6 +235,8 @@
 			"[+1 Gold] from every [Seaport]"
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -242,12 +250,16 @@
     {
         "name": "Genoa-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+10]% Production when constructing [{Military} {Water}] units [in all cities]"
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -259,12 +271,16 @@
     {
         "name": "Kathmandu-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+2 Culture, +2 Faith] from every [Mountain]",
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -276,12 +292,16 @@
     {
         "name": "Tyre-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+1 Gold, +1 Culture] [in all cities] <in cities with a [World Wonder]>",
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -293,12 +313,16 @@
     {
         "name": "Zanzibar-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+1 Gold] from every [Luxury resource]",
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -310,12 +334,16 @@
     {
         "name": "Mogadishu-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+1 Gold] from every [Luxury resource]",
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -327,11 +355,15 @@
     {
         "name": "Samarkand-type",
         "friendBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
         ],
         "allyBonusUniques": [
+            "[+1 Happiness] <before the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
@@ -508,20 +540,134 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+1 Science] from all [Library] buildings",
-			"[+1 Science] from all [University] buildings",
         ],
         "allyBonusUniques":  [
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+1 Science] from all [Library] buildings",
-			"[+1 Science] from all [University] buildings",
-			"[+2 Science] from all [Public School] buildings",
-			"[+2 Science] from all [Research Lab] buildings",
         ],
         "color": [0,0,255]
     },
+    {
+        "name": "Anshan-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+1 Science] from every [Library]",
+			"[+1 Science] from every [University]",
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+1 Science] from every [Library]",
+			"[+1 Science] from every [University]",
+			"[+2 Science] from every [Public School]",
+			"[+2 Science] from every [Research Lab]",
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Bologna-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+5] HP when healing"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+8] HP when healing"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Fez-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"When spreading religion to a city, gain [5] times the amount of followers of other religions as [Science]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Geneva-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+10]% [Science] <when not at war>"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+20]% [Science] <when not at war>"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Mitla-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+25 Gold, +25 Science] whenever a Great Person is expended"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+50 Gold, +50 Science] whenever a Great Person is expended"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Hattusa-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+1 Science] from every [Great Improvement]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[+2 Science] from every [Great Improvement]"
+        ],
+        "color": [0,0,255]
+    },
+    {
+        "name": "Nalanda-type",
+        "friendBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+        ],
+        "allyBonusUniques":  [
+            "[+2 Science] <before the [Medieval era]>",
+            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Science] <starting from the [Industrial era]>",
+			"[Civilian] units gain the [Mahavihara Construct] promotion"
+        ],
+        "color": [0,0,255]
+    },
+	
+	
+	
+	
+	
 	
 	//Industrial
     {

@@ -10,7 +10,7 @@
 		"name": "Trading Dome",
 		"gold": 3,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+2 Gold] for each adjacent [Luxury resource]"]
+		"uniques": ["Improvement", "Removes removable features when built", "[+1 Gold] for each adjacent [Luxury resource]"]
 	},
 	{
 		"name": "Alcazar",
@@ -18,14 +18,22 @@
 		"science": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Improvement", "Removes removable features when built", "[+1 Science] for each adjacent [Mountain]", 
-					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [25]%"]
+					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [50]%"]
 	},
 	{
 		"name": "Cahokian Mounds",
 		"faith": 2,
 		"happiness": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+2 Food]  <with [1] to [6] neighboring [City center] tiles>", 
+		"uniques": ["Improvement", "Removes removable features when built", "[+2 Food] for each adjacent [City center]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Cahokian Mounds] tiles>"]
+	},
+	{
+		"name": "Mahavihara",
+		"sience": 2,
+		"faith": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Improvement", "Removes removable features when built", "[+1 Science] for each adjacent [City center]", 
+					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>"]
 	},
 ]

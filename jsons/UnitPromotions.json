@@ -15,4 +15,8 @@
 		"name": "Cahokian Mounds Construct",
 		"uniques": ["Can construct [Cahokian Mounds]"]
 	},	
+	{
+		"name": "Mahavihara Construct",
+		"uniques": ["Can construct [Mahavihara]"]
+	},	
 ]
