@@ -297,7 +297,7 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-			"[+1 Gold, +1 Culture] [in all cities] <in cities with a [World Wonder]>",
+			"[+2 Gold, +2 Culture] [in all cities] <in cities with a [World Wonder]>",
         ],
         "allyBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
@@ -306,7 +306,7 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-			"[+2 Gold, +2 Culture] [in all cities] <in cities with a [World Wonder]>",
+			"[+4 Gold, +4 Culture] [in all cities] <in cities with a [World Wonder]>",
         ],
         "color": [255, 216, 0]
     },
@@ -339,7 +339,8 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-			"[+1 Gold] from every [Luxury resource]",
+			"[+2 Gold] from every [Market]",
+			"[+2 Gold] from every [Bank]",
         ],
         "allyBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
@@ -348,7 +349,9 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-			"[+2 Gold] from every [Luxury resource]",
+			"[+2 Gold] from every [Market]",
+			"[+2 Gold] from every [Bank]",
+			"[+4 Gold] from every [Stock Exchange]",
         ],
         "color": [255, 216, 0]
     },
@@ -673,16 +676,131 @@
     {
         "name": "Industrial",
         "friendBonusUniques":  [
-            "[+2 Production] [in capital] <before the [Medieval era]>",
-            "[+4 Production] [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in capital] <starting from the [Industrial era]>",
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from all [Production] buildings"
         ],
         "allyBonusUniques":  [
-            "[+2 Production] [in capital] <before the [Medieval era]>",
-            "[+4 Production] [in capital] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in capital] <starting from the [Industrial era]>",
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] from all [Production] buildings"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Brussels-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+10]% Production when constructing [All] wonders [in all cities]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+20]% Production when constructing [All] wonders [in all cities]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Singapore-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+2 Production] [in all cities connected to capital]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+4 Production] [in all cities connected to capital]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Auckland-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Production] from every [Coast]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+2 Production] from every [Coast]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Hong Kong-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+10]% Production when constructing [All] buildings [in all cities]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+20]% Production when constructing [All] buildings [in all cities]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Buenos Aires-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Happiness] from every [Bonus resource]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Happiness] from every [Bonus resource]",
+			"[+1 Happiness] from every [Strategic resource]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Johannesburg-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Production] from every [Strategic resource]"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Production] from every [Bonus resource]",
+			"[+1 Production] from every [Strategic resource]",
+			"[+1 Production] from every [Luxury resource]"
+        ],
+        "color": [139,69,19]
+    },
+    {
+        "name": "Mexico City-type",
+        "friendBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+        ],
+        "allyBonusUniques":  [
+            "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Happiness] from every [Bonus resource]",
+			"[Civilian] units gain the [Crafters' Guild Construct] promotion"
         ],
         "color": [139,69,19]
     },

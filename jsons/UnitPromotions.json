@@ -19,4 +19,9 @@
 		"name": "Mahavihara Construct",
 		"uniques": ["Can construct [Mahavihara]"]
 	},	
+	{
+		"name": "Crafters' Guild Construct",
+		"uniques": ["Can construct [Crafters' Guild]"]
+	},	
+	
 ]
