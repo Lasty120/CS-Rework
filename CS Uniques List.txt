@@ -54,7 +54,9 @@ Mercantile: "[+1 Happiness] <before the [Medieval era]>",
    Tyre Ally: +2 Gold and Culture in cities with a World Wonder
 6. Zanzibar Friend: +1 Gold from every Luxury resource
    Zanzibar Ally: +2 Gold from every Luxury resource
-7. Samarkand Ally: Newly-trained Civilian can construct Trading Dome improvement
+7. Mogadishu Friend: +2 Gold from Market and Bank
+   Mogadishu Ally: Friend bonus and +4 Gold from Stock Exchange
+8. Samarkand Ally: Newly-trained Civilian can construct Trading Dome improvement
 
 Militaristic: "Provides military units every ≈[20] turns"
 
@@ -99,6 +101,26 @@ Scientific: "[+2 Science] <before the [Medieval era]>",
 6. Hattusa Friend: +1 Science from Great Improvement
    Hattusa Ally: +2 Science from Great Improvement
 7. Nalanda Ally: Newly-trained Civilian can construct Mahavihara improvement
+
+Industrial: "[+2 Production] [in all cities] <before the [Medieval era]>",
+            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+
+1. Brussels Friend: +10% Production when constructing all Wonders
+   Brussels Ally: +20% Production when constructing all Wonders
+2. Singapore Friend: +2 Production in all cities connected to capital
+   Singapore Ally: +4 Production in all cities connected to capital
+3. Auckland Friend: +1 Production from every Coast
+   Auckland Ally: +2 Production from every Coast
+4. Hong Kong Friend: +10% Production when constructing all buildings
+   Hong Kong Ally: +20% Production when constructing all buildings
+5. Buenos Aires Friend: +1 Happiness from Bonus resource
+   Buenos Aires Ally: Friend bonus and +1 Happiness from Strategic resource
+6. Johannesburg Friend: +1 Production from Strategic resource
+   Johannesburg Ally: +1 Production from every resource
+7. Mexico City Ally: Newly-trained Civilian can construct Crafters' Guild improvement
+
+
 
 
 
