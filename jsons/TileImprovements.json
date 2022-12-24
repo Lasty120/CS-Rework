@@ -44,4 +44,38 @@
 		"uniques": ["Improvement", "Removes removable features when built", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>","[+1 Production] for each adjacent [Luxury resource]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>"]
 	},
+{
+  "name": "Golden Mine",
+  "terrainsCanBeBuiltOn": ["Hill"],
+  "uniques": ["Provides [1] [Gold Ore]", "[+1 Production] <after discovering [Chemistry]>"],
+  "gold": 2,
+  "production": 1
+},
+{
+  "name": "Triumphal Arch",
+  "turnsToBuild": 7,
+  "terrainsCanBeBuiltOn": ["Desert", "Plains"],
+  "uniques": ["Only available <with [Triumphal Arch res]>", "Gives a defensive bonus of [30]%",
+  "Only available <after discovering [Construction]>"],
+  "culture": 2
+},
+{
+  "name": "Cahokian Kurgan",
+  "turnsToBuild": 7,
+  "terrainsCanBeBuiltOn": ["Plains", "Grassland"],
+  "uniques": ["Only available <with [Cahokian Kurgan res]>", "Gives a defensive bonus of [15]%",
+  "Only available <after discovering [Animal Husbandry]>"],
+  "food": -1,
+  "culture": 2,
+  "faith": 2
+},
+{
+  "name": "Tibetan Kumbum",
+  "turnsToBuild": 7,
+  "terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+  "uniques": ["Only available <with [Tibetan Kumbum res]>", "Only available <with [1] to [6] neighboring [Mountain] tiles>", 
+  "[+1 Faith] for each adjacent [Mountain]", "Only available <after discovering [Theology]>"],
+  "culture": 1,
+  "faith": 1,
+}
 ]
