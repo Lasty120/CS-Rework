@@ -160,5 +160,13 @@
   "name": "Singaporean Fleet",
   "uniques": ["Can move after attacking"]
     },	
+{
+  "name": "Khananei",
+  "uniques": ["[+25]% Strength <when fighting in [Foreign Land] tiles>", "[+12]% Strength <when fighting in [Friendly Land] tiles>"]
+    },
+{
+  "name": "Suahili warrior",
+  "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting units from a Civilization with more Cities than you>"]
+    }
 	
 ]
