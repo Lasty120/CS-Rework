@@ -1,0 +1,152 @@
+[
+{
+		"name": "Aport",
+		"resourceType": "Luxury",
+		"uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+		"name": "Purple Glass",
+		"resourceType": "Luxury",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Aport production res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Belgadian Citadel res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Purple Glass production res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Castle-Wall res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Castles System res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Cahokian Kurgan res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Sinagoga res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Atomium res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Great School of Arts res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Imperialist Citadel res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Dar-ul-Aman res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Batu Caves res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Tibetan Kumbum res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Sforza's Castle res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Museum of Civilizations res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Ickanda res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Finnish Sauna res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Fillipian Harbor rea",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Museum of Tomorrow res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Sydney's Bridges res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Ziggurat res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Grenville-Iland res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Venetian Arsenal res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Diamond production res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Genoese Port res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Boudhanath Stupa res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Triumphal Arch res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Island Tourism res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	}
+]
