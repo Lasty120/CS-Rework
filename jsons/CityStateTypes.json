@@ -382,6 +382,7 @@
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+2 Gold] from every [Market]",
 			"[+2 Gold] from every [Bank]",
+          "[Composite Bowman] units gain the [Slave Archer] promotion", "[Privateer] units gain the [African Pirates] promotion"
         ],
         "allyBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
@@ -670,7 +671,9 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"
+			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]",
+           "Provides [1] [Merdese res]", "[Privateer] units gain the [Berber Pirates] promotion", 
+            "Unique Building [Merdese]"
         ],
         "color": [0,0,255]
     },
@@ -686,7 +689,9 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+20]% [Science] <when not at war>"
+			"[+20]% [Science] <when not at war>",
+        "Provides [1] [Palace of Nations res]", "[Pikeman] units gain the [Swiss Pikeman] promotion", 
+            "Unique Building [Palace of Nations]"
         ],
         "color": [0,0,255]
     },
@@ -702,7 +707,9 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+50 Gold, +50 Science] whenever a Great Person is expended"
+			"[+50 Gold, +50 Science] whenever a Great Person is expended",
+        "Provides [1] [Sapotec's Temple]", "[Spearman] units gain the [Sapotec] promotion", 
+            "Unique Building [Sapotec's Temple]"
         ],
         "color": [0,0,255]
     },
@@ -718,7 +725,9 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+2 Science] from every [Great Improvement]"
+			"[+2 Science] from every [Great Improvement]",
+           "Provides [1] [Lion Gate res]", "[Chariot archer] units gain the [Hitties Chariot] promotion", 
+            "Unique Building [Lion Gate]"
         ],
         "color": [0,0,255]
     },
@@ -728,13 +737,15 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-            "[+1 Science] from all [Faith] buildings"
+            "[+1 Science] from all [Faith] buildings" 
         ],
         "allyBonusUniques":  [
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+2 Science] from all [Faith] buildings"
+			"[+2 Science] from all [Faith] buildings",
+            "Provides [1] [Mahavihara res]", "[Horseman] units gain the [Kshatriya] promotion", 
+            "Unique Building [Mahavihara]"
         ],
         "color": [0,0,255]
     },
@@ -773,7 +784,9 @@
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
-			"[+20]% Production when constructing [All] wonders [in all cities]"
+			"[+20]% Production when constructing [All] wonders [in all cities]",
+        "Provides [1] [Atomium res]", "[Pikeman] units gain the [Thrust] promotion", 
+            "Unique Building [Atomium]"
         ],
         "color": [139,69,19]
     },
@@ -789,7 +802,9 @@
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
-			"[+4 Production] [in all cities connected to capital]"
+			"[+4 Production] [in all cities connected to capital]",
+            "Provides [1] [Trading Port res]", "[Caravel] units gain the [Pirate Hunter] promotion", 
+            "Unique Building [Trading Port]"
         ],
         "color": [139,69,19]
     },
@@ -806,6 +821,8 @@
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] from every [Coast]"
+            "Provides [1] [Pa res]", "[Swordsman] units gain the [Intimidation] promotion", 
+            "Unique Improvement [Pa]"
         ],
         "color": [139,69,19]
     },
@@ -821,7 +838,9 @@
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
-			"[+20]% Production when constructing [All] buildings [in all cities]"
+			"[+20]% Production when constructing [All] buildings [in all cities]",
+            "Provides [1] [Entrepot res]", "[Rifleman] units gain the [Coastal Protector] promotion", 
+            "Unique Building [Entrepot]"
         ],
         "color": [139,69,19]
     },
@@ -838,7 +857,9 @@
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Happiness] from every [Bonus resource]",
-			"[+1 Happiness] from every [Strategic resource]"
+			"[+1 Happiness] from every [Strategic resource]",
+            "Provides [1] [Ocupada Stable res]", "[Cavalry] units gain the [Gaucho] promotion", 
+            "Unique Building [Ocupada Stable]"
         ],
         "color": [139,69,19]
     },
@@ -856,7 +877,9 @@
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from every [Bonus resource]",
 			"[+1 Production] from every [Strategic resource]",
-			"[+1 Production] from every [Luxury resource]"
+			"[+1 Production] from every [Luxury resource]",
+           "Provides [1] [Iminti res]", "[Musketman] units gain the [Raider] promotion", 
+            "Unique Building [Iminti]"
         ],
         "color": [139,69,19]
     },
@@ -872,7 +895,9 @@
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
-			"[+30]% Production when constructing [Production] buildings [in all cities]"
+			"[+30]% Production when constructing [Production] buildings [in all cities]",
+            "Provides [1] [Crafter's Guild res]", "[Rifleman] units gain the [Ranchero] promotion", 
+            "Unique Improvement [Crafter's Guild]"
         ],
         "color": [139,69,19]
     },
