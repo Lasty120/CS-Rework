@@ -122,12 +122,13 @@
             "[+4 Culture] <before the [Medieval era]>",
             "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Culture] <starting from the [Industrial era]>",
+            "[+1 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
         ],
         "allyBonusUniques": [
             "[+4 Culture] <before the [Medieval era]>",
             "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
-			"[Civilian] units gain the [Batey Construct] promotion"
+            "[+16 Culture] <starting from the [Industrial era]",
+            [+2 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>
         ],
         "color": [139, 96, 255]
     },
@@ -402,6 +403,7 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
+            "[-50]% maintenance on road & railroads"
         ],
         "allyBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
@@ -410,7 +412,8 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-			"[Civilian] units gain the [Trading Dome Construct] promotion"
+            "[-50]% maintenance on road & railroads",
+            "[+1 Gold] from [Road] tiles [in all cities]", "[+1 Gold] from [Railroad] tiles [in all cities]"
         ],
         "color": [255, 216, 0]
     },
@@ -523,11 +526,12 @@
     {
         "name": "Granada-type",
         "friendBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[20] turns",
+                "[+2 Science] [in all cities] <in [Hill] tiles>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
-			"[Civilian] units gain the [Alcazar Construct] promotion"
+			"Provides military units every ≈[20] turns",
+			"[+4 Science] [in all cities] <in [Hill] tiles>"
 		],
         "color": [255, 0, 0]
     },
@@ -580,13 +584,15 @@
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
+            "[+10]% [Faith] [in all cities]",
         ],
         "allyBonusUniques":  [
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
 			"Provides [1] [Cahokian Kurgan res]",
-        "Unique Improvement [Cahokian Kurgan]", "[Spearman] units gain the [Cahokian warrior]"
+        "Unique Improvement [Cahokian Kurgan]", "[Spearman] units gain the [Cahokian warrior]",
+        "[+20]% [Faith] [in all cities]"
         ],
         "color": [255, 255, 255]
     },
@@ -712,12 +718,13 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
+            "[+1 Science] from all [Faith] buildings"
         ],
         "allyBonusUniques":  [
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[Civilian] units gain the [Mahavihara Construct] promotion"
+			"[+2 Science] from all [Faith] buildings"
         ],
         "color": [0,0,255]
     },
@@ -849,13 +856,13 @@
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+15]% Production when constructing [Production] buildings [in all cities]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
-			"[+1 Happiness] from every [Bonus resource]",
-			"[Civilian] units gain the [Crafters' Guild Construct] promotion"
+			"[+30]% Production when constructing [Production] buildings [in all cities]"
         ],
         "color": [139,69,19]
     },
