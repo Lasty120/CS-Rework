@@ -2,9 +2,8 @@
 	{
 		"name": "Batey",
 		"culture": 1,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+1 Culture] for each adjacent [Bonus resource]", "[+1 Culture] for each adjacent [Luxury resource]", "[+1 Culture] for each adjacent [Strategic resource]",
-					"[+1 Culture] for each adjacent [Bonus resource] <after discovering [Archaeology]>", "[+1 Culture] for each adjacent [Luxury resource] <after discovering [Archaeology]>", "[+1 Culture] for each adjacent [Strategic resource] <after discovering [Archaeology]>",]
+		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"uniques": ["Improvement", "[+1 Culture] for each adjacent [Bonus resource]", "[+1 Culture] for each adjacent [Luxury resource]", "[+1 Culture] for each adjacent [Strategic resource]"]
 	},
 	{
 		"name": "Trading Dome",
@@ -15,33 +14,25 @@
 	{
 		"name": "Alcazar",
 		"culture": 2,
-		"science": 1,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+1 Science] for each adjacent [Mountain]", 
-					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [50]%"]
-	},
-	{
-		"name": "Cahokian Mounds",
-		"faith": 2,
-		"happiness": 1,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+2 Food] for each adjacent [City center]", 
-					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Cahokian Mounds] tiles>"]
+		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"uniques": ["Improvement", "[+1 Science] for each adjacent [Mountain]", 
+					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [20]%",
+                "Only available <with [1] to [6] neighboring [Mountain] tiles>"]
 	},
 	{
 		"name": "Mahavihara",
-		"science": 2,
+		"science": 1,
 		"faith": 1,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+2 Science] for each adjacent [City center]", 
+		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"uniques": ["Improvement", "[+1 Science] for each adjacent [City center]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>"]
 	},
 	{
 		"name": "Crafters' Guild",
 		"production": 1,
 		"gold": 1,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>","[+1 Production] for each adjacent [Luxury resource]", 
+		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>","[+1 Production] for each adjacent [Luxury resource]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>"]
 	},
 {
