@@ -128,7 +128,9 @@
             "[+4 Culture] <before the [Medieval era]>",
             "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Culture] <starting from the [Industrial era]",
-            [+2 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>
+            "[+2 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
+        "Provides [1] [Batey res]", "[Spearman] units gain the [Arawak] promotion", 
+            "Unique Improvement [Batey]"
         ],
         "color": [139, 96, 255]
     },
@@ -413,7 +415,9 @@
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
             "[-50]% maintenance on road & railroads",
-            "[+1 Gold] from [Road] tiles [in all cities]", "[+1 Gold] from [Railroad] tiles [in all cities]"
+            "[+1 Gold] from [Road] tiles [in all cities]", "[+1 Gold] from [Railroad] tiles [in all cities]",
+            "Provides [1] [40 judges Courthouse res]", "[Cannon] units gain the [Emir's Army] promotion", 
+            "Unique Building [40 judges Courthouse]"
         ],
         "color": [255, 216, 0]
     },
@@ -531,7 +535,9 @@
 		],
         "allyBonusUniques": [
 			"Provides military units every ≈[20] turns",
-			"[+4 Science] [in all cities] <in [Hill] tiles>"
+			"[+4 Science] [in all cities] <in [Hill] tiles>",
+        "Provides [1] [Alcazar res]", "[Crossbowman] units gain the [Granadian Army] promotion", 
+            "Unique Building [Alcazar]"
 		],
         "color": [255, 0, 0]
     },
@@ -629,6 +635,8 @@
 			"[+1 Science] from every [University]",
 			"[+2 Science] from every [Public School]",
 			"[+2 Science] from every [Research Lab]",
+           "Provides [1] [Elam Mausoleum res]", "[Spearman] units gain the [Nome Militia] promotion", 
+            "Unique Improvement [Elam Mausoleum]"
         ],
         "color": [0,0,255]
     },
@@ -644,7 +652,9 @@
             "[+2 Science] <before the [Medieval era]>",
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
-			"[+8] HP when healing"
+			"[+10] HP when healing",
+            "Provides [1] [Neptun Statue res]", "[Cavalry] units gain the [Mounted Velites] promotion", 
+            "Unique Building [Neptun Statue]"
         ],
         "color": [0,0,255]
     },
