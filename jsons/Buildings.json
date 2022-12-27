@@ -212,7 +212,7 @@
   "[+1 Production] from [Water resource] tiles [in this city]", "Connects trade routes over water",
   "Must be next to [Coast]", "[+1 Gold] from [Coast] tiles [in this city]", "[+1 Gold] from [Ocean] tiles [in this city]",
   "Only available <in cities without a [Harbor]>", "Only available <in cities without a [Genoese Port]>",
-  "Only available <in cities without a [Venetian Arsenal]>"],
+  "Only available <in cities without a [Venetian Arsenal]>", "Only available <in cities without a [Entrepot]>"],
   "maintenance": 2,
 },
 {
@@ -223,7 +223,18 @@
   "[+1 Production] from [Water resource] tiles [in this city]", "Connects trade routes over water",
   "Must be next to [Coast]", "Only available <in cities without a [Harbor]>", 
   "Only available <in cities without a [Fillipian Harbor]>", "Only available <in cities without a [Genoese Port]>",
-  "New [Water] units start with [20] Experience [in this city]"],
+  "Only available <in cities without a [Entrepot]>", "New [Water] units start with [20] Experience [in this city]"],
+  "maintenance": 2,
+},
+{
+  "name": "Entrepot",
+  "cost": 120,
+  "replaces": "Harbor",
+  "uniques": ["Only available <with [Entrepot res]>", "Only available <after discovering [Compass]>",
+  "[+1 Production] from [Water resource] tiles [in this city]", "Connects trade routes over water",
+  "Must be next to [Coast]", "Only available <in cities without a [Harbor]>", 
+  "Only available <in cities without a [Fillipian Harbor]>", "Only available <in cities without a [Genoese Port]>", "Only available <in cities without a [Venetian Arsenal]>",
+  "[+2 Gold] from [Luxury resource] tiles [in this city]"],
   "maintenance": 2,
 },
 {
@@ -233,7 +244,7 @@
 		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
 		"Connects trade routes over water","Must be next to [Coast]"
   "Only available <in cities without a [Genoese Port]>", "Only available <in cities without a [Fillipian Harbor]>",
-  "Only available <in cities without a [Venetian Arsenal]>"],
+  "Only available <in cities without a [Venetian Arsenal]>", "Only available <in cities without a [Entrepot]>"],
 		"requiredTech": "Compass"
 	},
 {
@@ -244,7 +255,7 @@
   "[+1 Production] from [Water resource] tiles [in this city]", "Connects trade routes over water",
   "Must be next to [Coast]", "Only available <in cities without a [Harbor]>", 
   "Only available <in cities without a [Fillipian Harbor]>", "Only available <in cities without a [Venetian Arsenal]>",
-  "[+25]% Production when constructing [Water] units [in this city]"],
+  "Only available <in cities without a [Entrepot]>", "[+25]% Production when constructing [Water] units [in this city]"],
   "maintenance": 2,
 },
 {
@@ -283,4 +294,59 @@
   "[+2 Gold] from [Land] tiles <with [4] to [6] neighboring [Coast] tiles> [in this city]", "[+1 Gold] from [Atoll] tiles [in this city]"],
   "maintenance": 1,
 },
+{
+	"name": "Mint",
+	"maintenance": 0,
+	"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+	"hurryCostModifier": 25,
+	"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]", "Only available <in cities without a [Iminti]>"],
+	"requiredTech": "Currency"
+},
+	
+	{
+		"name": "Iminti",
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]", "Only available <in cities without a [Mint]>",
+					"[+2 Culture] from [Gold Ore] tiles [in this city]", "[+2 Culture] from [Silver] tiles [in this city]",
+                "Only available <with [Iminti res]>"],
+		"requiredTech": "Currency"
+	},
+{
+	"name": "Stable",
+	"maintenance": 1,
+	"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+	"hurryCostModifier": 25,
+	"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]", "Only available <in cities without a [Ocupada Stable]>",
+		"[+1 Production] from [Cattle] tiles [in this city]",
+		"[+1 Production] from [Horses] tiles [in this city]",
+		"[+1 Production] from [Sheep] tiles [in this city]"],
+	"requiredTech": "Horseback Riding"
+},
+
+	{
+		"name": "Ocupada Stable",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]", "Only available <in cities without a [Stable]>",
+                "Only available <with [Ocupada Stable res]>"
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]",
+			"[+1 Food] from [Sheep] tiles [in this city]", 
+			"[+1 Food] from [Cattle] tiles [in this city]", 
+			"[+1 Food] from [Horse] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+{
+		"name": "Trading Port",
+		"cost": 50,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Only available <with [Trading Port res]>", "Only available <in cities with a [Lighthouse]>", 
+                "Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
+		"requiredTech": "Optics"
+	},
 ]
