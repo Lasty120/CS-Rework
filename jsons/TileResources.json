@@ -148,5 +148,25 @@
 		"name": "Island Tourism res",
 		"resourceType": "Bonus",
 		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Iminti res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Trading Port res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Ocupada Stable res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Entrepot res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
 	}
 ]
