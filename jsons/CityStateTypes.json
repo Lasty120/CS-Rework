@@ -598,6 +598,8 @@
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
 			"Religion naturally spreads to cities [+4] tiles away",
+            "Provides [1] [Monastic School res]", "[Knight] units gain the [Zealot] promotion", 
+            "Unique Building [Monastic School]"
         ],
         "color": [255, 255, 255]
     },
@@ -614,6 +616,8 @@
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith] from [Trading post] tiles [in all cities]",
+            "Provides [1] [Caravan Camp res]", "[Cannon] units gain the [Desert Bombard] promotion", 
+            "Unique Building [Caravan Camp]"
         ],
         "color": [255, 255, 255]
     },
@@ -623,13 +627,15 @@
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
-			"[+7]% [Faith] from every [Plantation]"
+			"[+1 Faith] from every [Plantation]"
         ],
         "allyBonusUniques":  [
             "[+4 Faith] <before the [Medieval era]>",
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
-			"[+15]% [Faith] from every [Plantation]"
+			"[+2 Faith] from every [Plantation]",
+             "Provides [1] [Temple of the Tooth res]", "[Musketman] units gain the [Nuwara] promotion", 
+            "Unique Building [Temple of the Tooth]"
         ],
         "color": [255, 255, 255]
     },
@@ -646,7 +652,9 @@
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith, +1 Culture] from every [National Wonder]"
-			"[+2 Faith, +1 Culture] from every [World Wonder]"
+			"[+2 Faith, +1 Culture] from every [World Wonder]",
+            "Provides [1] [Colossal Head res]", "[Horseman] units gain the [Serpentine] promotion", 
+            "Unique Improvement [Colossal Head]"
         ],
         "color": [255, 255, 255]
     },
