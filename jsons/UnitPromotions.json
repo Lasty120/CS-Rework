@@ -1,28 +1,4 @@
 [
-	{
-		"name": "Batey Construct",
-		"uniques": ["Can construct [Batey]"]
-	},	
-	{
-		"name": "Trading Dome Construct",
-		"uniques": ["Can construct [Trading Dome]"]
-	},	
-	{
-		"name": "Alcazar Construct",
-		"uniques": ["Can construct [Alcazar]"]
-	},	
-	{
-		"name": "Cahokian Mounds Construct",
-		"uniques": ["Can construct [Cahokian Mounds]"]
-	},	
-	{
-		"name": "Mahavihara Construct",
-		"uniques": ["Can construct [Mahavihara]"]
-	},	
-	{
-		"name": "Crafters' Guild Construct",
-		"uniques": ["Can construct [Crafters' Guild]"]
-	},
 {
   "name": "Sydney's Bridges prom",
   "uniques": ["[1] Movement point cost to embark", "[1] Movement point cost to disembark"]
@@ -66,10 +42,6 @@
   "name": "Maccabee",
   "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith] <before discovering [Steel]>", 
   "Earn [25]% of killed [Military] unit's [Cost] as [Faith] <after discovering [Steel]>"]
-    },
-{
-  "name": "Black Reiter",
-  "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [Foreign Land] tiles>"]
     },
 {
   "name": "Sagittaria",
@@ -167,6 +139,74 @@
 {
   "name": "Suahili warrior",
   "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting units from a Civilization with more Cities than you>"]
-    }
-	
+    },
+{
+  "name": "Arawak",
+  "uniques": ["[+25]% Strength <with [1] to [6] neighboring [Coast] tiles>", "[+10]% Strength <when fighting in [Jungle]>"]
+},
+{
+  "name": "Granadian Army",
+  "uniques": ["[+1] Movement <before discovering [Industrialization]>", "Can move after attacking"]
+},
+{
+  "name": "Emir's Army",
+  "uniques": ["[+33]% Strength <vs cities> <when defending>", "[+33]% Strength <vs [Ranged] units> <when defending>"]
+},	
+{
+  "name": "Nome Militia",
+  "uniques": ["[+25]% Strength <when defending>", "[+10]% Strength <when fighting in [Friendly Land] tiles>"]
+},
+{
+  "name": "Mounted Velites",
+  "uniques": ["Damage is ignored when determining unit Strength <when fighting in [Enemy Land] tiles>", "[+10]% Strength <before discovering [Combustion]>"]
+},
+{
+  "name": "Berber Pirates",
+  "uniques": ["[+20]% Strength <when fighting in [Coast] tiles>", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"]
+},
+{
+  "name": "Swiss Pikeman",
+  "uniques": ["[+25]% Strength <when fighting in [Foreign Land] tiles>"]
+},
+{
+  "name": "Sapotecs",
+  "uniques": ["[+40]% Strength <when fighting in [Jungle] tiles>", "[+20]% Strength <when fighting in [Forest] tiles>"]
+},
+{
+  "name": "Hitties Chariot",
+  "uniques": ["[+1] Movement", "[+20]% Strength <when fighting in [Plains] tiles>"]
+},
+{
+  "name": "Kshatriya",
+  "uniques": ["[1] additional attack per turn", "[+20]% Strength <vs cities> <when attacking> <before discovering [Military Science]>"]
+},
+{
+  "name": "Thrust",
+  "uniques": ["[+50]% Strength <when attacking> <when above [90] HP>", "[+1] Movement"]
+},
+{
+  "name": "Pirate Hunter",
+  "uniques": ["[+50]% Strength <vs [Barbarian] units>", "[+50]% Strength <vs [Privateer] units>", 
+  "[+15]% Strength <when fighting in [Coast] tiles> <starting from the [Industrial era]>"]
+},
+{
+  "name": "Intimidation",
+  "uniques": ["[-15]% Strength for enemy [All] units in adjacent [All] tiles"]
+},
+{
+  "name": "Coastal Protector",
+  "uniques": ["[+25]% Strength <within [2] tiles of a [Coast]>"]
+},
+{
+  "name": "Gaucho",
+  "uniques": ["[+30]% Strength <with [1] to [6] neighboring [Pasture] tiles>"]
+},
+{
+  "name": "Raider",
+  "uniques": ["No movement cost to pillage"]
+},
+{
+  "name": "Ranchero",
+  "uniques": ["[+30]% Strength <when fighting in [Farm] tiles>"]
+},
 ]
