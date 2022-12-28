@@ -92,7 +92,6 @@
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"cost": 100,
-		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
    "Only available <with [Sapotec's Temple res]>", "Only available <after discovering [Philosophy]>",
     "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Ziggurat]>",
