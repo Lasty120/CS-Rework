@@ -348,4 +348,57 @@
 		"uniques": ["Only available <with [Trading Port res]>", "Only available <in cities with a [Lighthouse]>", "Only available <after discovering [Optics]>",
                 "Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
 	},
+{		
+	"name": "Market",
+	"gold": 2,
+	"specialistSlots": {"Merchant": 1},
+	"hurryCostModifier": 25,
+	"percentStatBonus": {"gold": 25},
+	"uniques": ["Only available <in cities without a [Caravan Camp]>"],
+	"requiredTech": "Currency"
+},
+	
+	{		
+		"name": "Caravan Camp",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 40},
+		"uniques": ["Only available <in cities without a [Market]>",
+                "Only available <after discovering [Currency]>","Only available <with [Caravan Camp res]>"],
+},
+{
+	"name": "Public School",
+	"science": 3,
+	"specialistSlots": {"Scientist": 1},
+	"requiredBuilding": "University",
+	"maintenance": 3,
+	"hurryCostModifier": 0,
+	"uniques": ["[+1 Science] per [2] population [in this city]","Only available <in cities without a [Monastic School]>"],
+	"requiredTech": "Scientific Theory"
+},
+
+	{
+		"name": "Monastic School",
+		"replaces": "Public School",
+		"science": 3,
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "University",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+1 Faith] per [2] population [in this city]",
+                "Only available <in cities without a [Public School]>", 
+					"Only available <after discovering [Scientific Theory]>","Only available <with [Monastic School res]>"],
+	},
+
+
+
+	{
+		"name": "Temple of the Tooth",
+		"isNationalWonder": true,
+		"cost": 250,
+		"uniques": ["Only available <with [Temple of the Tooth res]>", "Only available <after discovering [Theology]>",
+					"Free Great Person"],
+	},
 ]
