@@ -424,7 +424,7 @@
 },
 {
   "name": "Neptun Statue",
-  "percentStatBonus" {"science": 5},
+  "percentStatBonus": {"science": 5},
   "culture": 2,
   "science": 2,
   "cost": 100,
