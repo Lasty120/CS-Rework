@@ -1,4 +1,11 @@
 [
+{
+  "name": "Elam Mausoleum",
+  "culture": 2,
+  "terrainsCanBeBuiltOn": ["Plains", "Desert"],
+  "uniques": ["Improvement", "Only available <with [Elam Mausoleum res]>", "Only available <after discovering [Masonry]>",
+  "[+1 Culture] for each adjacent [Fort]"]
+}
 	{
 		"name": "Batey",
 		"culture": 1,
