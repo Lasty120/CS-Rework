@@ -168,5 +168,25 @@
 		"name": "Entrepot res",
 		"resourceType": "Bonus",
 		"uniques": ["Will not be displayed in Civilopedia"]
-	}
+	},
+{
+		"name": "Monastic School res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Caravan Camp res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Temple of the Tooth res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+{
+		"name": "Colossal Head res",
+		"resourceType": "Bonus",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
 ]
