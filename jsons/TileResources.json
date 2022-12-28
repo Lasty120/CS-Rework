@@ -238,5 +238,15 @@
   "name": "Alcazar res",
   "resourceType": "Bonus",
   "uniques": ["Will not be displayed in Civilopedia"]
-}
+},
+{
+  "name": "Pa res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Crafter's Guild res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
 ]
