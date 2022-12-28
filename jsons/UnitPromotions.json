@@ -142,7 +142,7 @@
     },
 {
   "name": "Arawak",
-  "uniques": ["[+25]% Strength <with [1] to [6] neighboring [Coast] tiles>", "[+10]% Strength <when fighting in [Jungle]>"]
+  "uniques": ["[+25]% Strength <with [1] to [6] neighboring [Coast] tiles>", "[+10]% Strength <when fighting in [Jungle] tiles>"]
 },
 {
   "name": "Granadian Army",
