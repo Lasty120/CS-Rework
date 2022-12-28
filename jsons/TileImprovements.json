@@ -18,7 +18,7 @@
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Science] for each adjacent [Mountain]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [20]%",
-                "Only available <with [1] to [6] neighboring [Mountain] tiles>"]
+                "Only available <with [1] to [6] neighboring [Mountain] tiles>", "Only available <after discovering [Chivalry]>"]
 	},
 	{
 		"name": "Mahavihara",
@@ -26,7 +26,8 @@
 		"faith": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Science] for each adjacent [City center]", 
-					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>"]
+					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>",
+                 "Only available <after discovering [Education]>"]
 	},
 	{
 		"name": "Crafters' Guild",
@@ -35,7 +36,8 @@
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>",
           "[+1 Production] for each adjacent [Luxury resource]", 
-					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>"]
+					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>",
+          "Only available <after discovering [Guilds]>"]
 	},
 {
   "name": "Golden Mine",
