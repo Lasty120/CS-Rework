@@ -9,13 +9,13 @@
 	{
 		"name": "Batey",
 		"culture": 1,
-		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Culture] for each adjacent [Bonus resource]", "[+1 Culture] for each adjacent [Luxury resource]", "[+1 Culture] for each adjacent [Strategic resource]"]
 	},
 	{
 		"name": "Alcazar",
 		"culture": 2,
-		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Science] for each adjacent [Mountain]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [20]%",
                 "Only available <with [1] to [6] neighboring [Mountain] tiles>"]
@@ -24,7 +24,7 @@
 		"name": "Mahavihara",
 		"science": 1,
 		"faith": 1,
-		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Science] for each adjacent [City center]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>"]
 	},
@@ -32,7 +32,7 @@
 		"name": "Crafters' Guild",
 		"production": 1,
 		"gold": 1,
-		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
 		"uniques": ["Improvement", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>",
           "[+1 Production] for each adjacent [Luxury resource]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>"]
