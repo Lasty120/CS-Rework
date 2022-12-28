@@ -227,16 +227,16 @@
 {
   "name": "40 judges Courthouse res",
   "resourceType": "Bonus",
-  "uniques": ["Will not be displayed in Civilopedia"
+  "uniques": ["Will not be displayed in Civilopedia"]
 },
 {
   "name": "Batey res",
   "resourceType": "Bonus",
-  "uniques": ["Will not be displayed in Civilopedia"
+  "uniques": ["Will not be displayed in Civilopedia"]
 },
 {
   "name": "Alcazar res",
   "resourceType": "Bonus",
-  "uniques": ["Will not be displayed in Civilopedia"
+  "uniques": ["Will not be displayed in Civilopedia"]
 }
 ]
