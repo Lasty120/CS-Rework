@@ -74,7 +74,7 @@
 {
   "name": "Colossal Head",
   "turnsToBuild": 7,
-  "terrainsCanBeBuiltOn": ["Land", "Avoid [Forest]"],
+  "terrainsCanBeBuiltOn": ["Land"],
   "uniques": ["Only available <with [Colossal Head res]>", "[+1 Faith] for each adjacent [Jungle]", "Only available <after discovering [Theology]>", 
   "[+1 Culture] <after discovering [Archaeology]>"],
   "faith": 2,
