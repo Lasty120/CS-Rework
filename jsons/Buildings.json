@@ -87,6 +87,19 @@
     "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Ziggurat]>"]
 	},
 {
+		"name": "Sapotec's Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"cost": 100,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
+   "Only available <with [Sapotec's Temple res]>", "Only available <after discovering [Philosophy]>",
+    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Ziggurat]>",
+    "Only available <in cities without a [Temple]>", "[+1 Faith] from [Jungle] tiles [in this city]", 
+    "[+1 Faith] from [Forest] tiles [in this city]", "[+1 Culture] from [Jungle] tiles [in this city]"]
+	},
+{
   "name": "Sinagoga"
   "requiredBuilding": "Shrine",
   "culture": 3,
@@ -107,8 +120,8 @@
   "cost": 100,
   "uniques": ["Only available <with [Ziggurat res]>", "Only available <after discovering [Philosophy]>",
   "Hidden when religion is disabled", "Destroyed when the city is captured",
-  "[+1 Faith] from [River] tiles [in this city]", "Only available <in cities without a [Temple]>", 
-  "Only available <in cities without a [Sinagoga]>"],
+  "Only available <in cities without a [Temple]>", 
+  "Only available <in cities without a [Sinagoga]>", "[+1 Faith] from [River] tiles [in this city]"],
   "maintenance": 2,
 },
 {
@@ -401,4 +414,70 @@
 		"uniques": ["Only available <with [Temple of the Tooth res]>", "Only available <after discovering [Theology]>",
 					"Free Great Person"],
 	},
+{
+  "name": "40 judges Courthouse",
+  "percentStatBonus" {"culture": },
+  "happiness": 2,
+  "cost": 100,
+  "uniques": ["Only available <with [40 judges Courthouse res]>", "Only available <after discovering [Mathematics]>",
+  "[+1 Happiness] per [5] population", "[+1 Gold] per [3] population"],
+  "maintenance": 1,
+},
+{
+  "name": "Neptun Statue",
+  "percentStatBonus" {"science": 5},
+  "culture": 2,
+  "science": 2,
+  "cost": 100,
+  "uniques": ["Only available <with [Neptun Statue res]>", "Only available <after discovering [Construction]>"],
+  "maintenance": 1,
+},
+{
+  "name": "Merdese",
+  "percentStatBonus" {"science": 33,
+                     "faith": 20},
+  "culture": 2,
+  "cost": 160,
+  "replaces": "University",
+  "requiredBuilding": "Library",
+  "specialistSlots": {"Scientist": 2},
+  "uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Only available <in cities without a [University]>", 
+  "Only available <with [Merdese res]>", "Only available <after discovering [Education]>"],
+  "maintenance": 2,
+},
+{
+		"name": "University",
+		"maintenance": 2,
+		"cost": 160,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "Only available <in cities without a [Merdese]>"],
+		"requiredTech": "Education"
+	},
+{
+  "name": "Palace of Nations",
+  "isNationalWonder": true,
+  "cost": 350,
+  "uniques": ["Only available <with [Palace of Nations res]>", "Only available <after discovering [Civil Service]>",
+  "When declaring friendship, both parties gain a [5]% boost to great person generation"]
+},
+{
+		"name": "Walls",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"cost": 75,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured", "Only available <in cities without a [Lion Gate]>"]
+	},
+{
+		"name": "Lion Gate",
+                "replaces": "Walls",
+		"cityStrength": 7,
+		"cityHealth": 50,
+                "percentStatBonus": {"culture": 10}
+		"cost": 75,
+		"uniques": ["Only available <with [Lion Gate res]>", "Only available <after discovering [Masonry]>",
+                "Destroyed when the city is captured", "Only available <in cities without a [Walls]>", "[+2 Culture] <with [Marble]>"]
+	}
 ]
