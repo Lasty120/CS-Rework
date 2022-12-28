@@ -189,4 +189,39 @@
 		"resourceType": "Bonus",
 		"uniques": ["Will not be displayed in Civilopedia"]
 	},
+{
+  "name": "Merdese res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Elam Mausoleum res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Neptun Statue res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Palace of Nations res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Sapotec's Temple res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Lion Gate res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
+{
+  "name": "Mahavihara res",
+  "resourceType": "Bonus",
+  "uniques": ["Will not be displayed in Civilopedia"]
+},
 ]
