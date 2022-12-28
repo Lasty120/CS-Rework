@@ -433,7 +433,7 @@
 },
 {
   "name": "Merdese",
-  "percentStatBonus" {"science": 33,
+  "percentStatBonus": {"science": 33,
                      "faith": 20},
   "culture": 2,
   "cost": 160,
