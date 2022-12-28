@@ -781,7 +781,7 @@
             "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Science] <starting from the [Industrial era]>",
 			"[+50 Gold, +50 Science] whenever a Great Person is expended",
-        "Provides [1] [Sapotec's Temple]", "[Spearman] units gain the [Sapotec] promotion", 
+        "Provides [1] [Sapotec's Temple res]", "[Spearman] units gain the [Sapotec] promotion", 
             "Unique Building [Sapotec's Temple]"
         ],
         "color": [0,0,255]
