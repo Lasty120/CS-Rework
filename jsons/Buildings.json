@@ -416,7 +416,6 @@
 	},
 {
   "name": "40 judges Courthouse",
-  "percentStatBonus" {"culture": },
   "happiness": 2,
   "cost": 100,
   "uniques": ["Only available <with [40 judges Courthouse res]>", "Only available <after discovering [Mathematics]>",
