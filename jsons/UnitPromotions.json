@@ -209,4 +209,20 @@
   "name": "Ranchero",
   "uniques": ["[+30]% Strength <when fighting in [Farm] tiles>"]
 },
+{
+  "name": "Zealot",
+  "uniques": ["Earn [50]% of the damage done to [Military] units as [Faith]"]
+    },
+{
+  "name": "Desert Bombard",
+  "uniques": ["[+25]% Strength <when fighting in [Desert] tiles>"]
+    },
+{
+  "name": "Nuwara",
+  "uniques": ["[+25]% Strength <vs [Gunpowder] units>", "[+25]% Strength <vs [Ranged Gunpowder] units>"]
+    },
+{
+  "name": "Serpentine",
+  "uniques": ["Double movement in [Jungle]", "[+20]% Strength <in [Jungle] tiles>"]
+    },
 ]
