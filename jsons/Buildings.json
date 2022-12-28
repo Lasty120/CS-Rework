@@ -306,12 +306,12 @@
 	{
 		"name": "Iminti",
 		"maintenance": 0,
+                "replaces": "Mint",
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]", "Only available <in cities without a [Mint]>",
 					"[+2 Culture] from [Gold Ore] tiles [in this city]", "[+2 Culture] from [Silver] tiles [in this city]",
-                "Only available <with [Iminti res]>"],
-		"requiredTech": "Currency"
+                "Only available <with [Iminti res]>", "Only available <after discovering [Currency]>"]
 	},
 {
 	"name": "Stable",
@@ -330,23 +330,22 @@
 		"maintenance": 1,
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
+                "replaces": "Stable",
 		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]", "Only available <in cities without a [Stable]>",
-                "Only available <with [Ocupada Stable res]>"
+                "Only available <with [Ocupada Stable res]>", "Only available <after discovering [Horseback Riding]>",
 			"[+1 Production] from [Cattle] tiles [in this city]",
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]",
 			"[+1 Food] from [Sheep] tiles [in this city]", 
 			"[+1 Food] from [Cattle] tiles [in this city]", 
-			"[+1 Food] from [Horse] tiles [in this city]"],
-		"requiredTech": "Horseback Riding"
+			"[+1 Food] from [Horse] tiles [in this city]"]
 	},
 {
 		"name": "Trading Port",
 		"cost": 50,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["Only available <with [Trading Port res]>", "Only available <in cities with a [Lighthouse]>", 
+		"uniques": ["Only available <with [Trading Port res]>", "Only available <in cities with a [Lighthouse]>", "Only available <after discovering [Optics]>",
                 "Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
-		"requiredTech": "Optics"
 	},
 ]
