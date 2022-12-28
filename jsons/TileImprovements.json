@@ -6,12 +6,6 @@
 		"uniques": ["Improvement", "[+1 Culture] for each adjacent [Bonus resource]", "[+1 Culture] for each adjacent [Luxury resource]", "[+1 Culture] for each adjacent [Strategic resource]"]
 	},
 	{
-		"name": "Trading Dome",
-		"gold": 3,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Improvement", "Removes removable features when built", "[+1 Gold] for each adjacent [Luxury resource]"]
-	},
-	{
 		"name": "Alcazar",
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
@@ -32,7 +26,8 @@
 		"production": 1,
 		"gold": 1,
 		"terrainsCanBeBuiltOn": ["Land", "Avoid [Jungle]", "Avoid [Forest]"],
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>","[+1 Production] for each adjacent [Luxury resource]", 
+		"uniques": ["Improvement", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>",
+          "[+1 Production] for each adjacent [Luxury resource]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>"]
 	},
 {
@@ -68,5 +63,13 @@
   "[+1 Faith] for each adjacent [Mountain]", "Only available <after discovering [Theology]>"],
   "culture": 1,
   "faith": 1,
+},
+{
+  "name": "Colossal Head",
+  "turnsToBuild": 7,
+  "terrainsCanBeBuiltOn": ["Land", "Avoid [Forest]"],
+  "uniques": ["Only available <with [Colossal Head res]>", "[+1 Faith] for each adjacent [Jungle]", "Only available <after discovering [Theology]>", 
+  "[+1 Culture] <after discovering [Archaeology]>"],
+  "faith": 2,
 }
 ]
