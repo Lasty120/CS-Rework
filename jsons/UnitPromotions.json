@@ -178,7 +178,7 @@
 },
 {
   "name": "Kshatriya",
-  "uniques": ["[1] additional attack per turn", "[+20]% Strength <vs cities> <when attacking> <before discovering [Military Science]>"]
+  "uniques": ["[1] additional attacks per turn", "[+20]% Strength <vs cities> <when attacking> <before discovering [Military Science]>"]
 },
 {
   "name": "Thrust",
