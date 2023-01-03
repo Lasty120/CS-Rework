@@ -381,8 +381,7 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
 			"[+2 Gold] from every [Market]",
-			"[+2 Gold] from every [Bank]",
-          "[Composite Bowman] units gain the [Slave Archer] promotion", "[Privateer] units gain the [African Pirates] promotion"
+			"[+2 Gold] from every [Bank]"
         ],
         "allyBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
