@@ -968,8 +968,8 @@
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+6 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+30]% Production when constructing [Production] buildings [in all cities]",
-            "Provides [1] [Crafter's Guild res]", "[Rifleman] units gain the [Ranchero] promotion", 
-            "Unique Improvement [Crafter's Guild]"
+            "Provides [1] [Crafters' Guild res]", "[Rifleman] units gain the [Ranchero] promotion", 
+            "Unique Improvement [Crafters' Guild]"
         ],
         "color": [139,69,19]
     },
