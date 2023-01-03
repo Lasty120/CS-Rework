@@ -611,7 +611,91 @@ CityStateIcons/Almaty-type
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Belgrade-type
+  rotate: false
+  xy: 620, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Granada-type
+  rotate: false
+  xy: 620, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Kabul-type
+  rotate: false
+  xy: 620, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Valetta-type
+  rotate: false
+  xy: 620, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Sidon-type
+  rotate: false
+  xy: 620, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/M'Banza-Kongo-type
+  rotate: false
+  xy: 620, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Anshan-type
+  rotate: false
+  xy: 928, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Bologna-type
+  rotate: false
+  xy: 928, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Fez-type
+  rotate: false
+  xy: 928, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Geneva-type
+  rotate: false
+  xy: 928, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mitla-type
+  rotate: false
+  xy: 928, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Hattusa-type
+  rotate: false
+  xy: 928, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Nalanda-type
   rotate: false
   xy: 928, 770
   size: 100, 100
@@ -625,7 +709,91 @@ CityStateIcons/Bratislava-type
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Jerusalem-type
+  rotate: false
+  xy: 620, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Armagh-type
+  rotate: false
+  xy: 620, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Chinguetti-type
+  rotate: false
+  xy: 620, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Kandy-type
+  rotate: false
+  xy: 620, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/La Venta-type
+  rotate: false
+  xy: 620, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Cahokia-type
+  rotate: false
+  xy: 620, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Brussels-type
+  rotate: false
+  xy: 728, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Singapore-type
+  rotate: false
+  xy: 728, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Auckland-type
+  rotate: false
+  xy: 728, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Hong Kong-type
+  rotate: false
+  xy: 728, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Buenos Aires-type
+  rotate: false
+  xy: 728, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Johannesburg-type
+  rotate: false
+  xy: 728, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mexico City-type
   rotate: false
   xy: 728, 262
   size: 100, 100
@@ -639,6 +807,48 @@ CityStateIcons/Florence-type
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Hanoi-type
+  rotate: false
+  xy: 1036, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Kuala Lumpur-type
+  rotate: false
+  xy: 1036, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Lhasa-type
+  rotate: false
+  xy: 1036, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Milan-type
+  rotate: false
+  xy: 1036, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Quebec-type
+  rotate: false
+  xy: 1036, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Caguana-type
+  rotate: false
+  xy: 1036, 662
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Genoa-type
   rotate: false
   xy: 1144, 770
@@ -646,7 +856,98 @@ CityStateIcons/Genoa-type
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Venice-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Antwerp-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Kathmandu-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Tyre-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Zanzibar-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mogadishu-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Samarkand-type
+  rotate: false
+  xy: 1144, 770
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Vancouver-type
+  rotate: false
+  xy: 1144, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Ur-type
+  rotate: false
+  xy: 1144, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Sydney-type
+  rotate: false
+  xy: 1144, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Rio de Janeiro-type
+  rotate: false
+  xy: 1144, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Manila-type
+  rotate: false
+  xy: 1144, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Helsinki-type
+  rotate: false
+  xy: 1144, 554
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Cape Town-type
   rotate: false
   xy: 1144, 554
   size: 100, 100
