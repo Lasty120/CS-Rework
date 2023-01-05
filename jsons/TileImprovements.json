@@ -29,7 +29,7 @@
 		"uniques": ["Improvement", "Only available <with [Mahavihara res]>", "[+1 Science] for each adjacent [City center]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>",
                  "Only available <after discovering [Education]>"]
-	},
+	}, 
 	{
 		"name": "Crafters' Guild",
 		"production": 1,
