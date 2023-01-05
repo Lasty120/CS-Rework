@@ -44,7 +44,7 @@
 		"name": "Pa",
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
-		"uniques": ["Improvement", "Only available <with [Pa res]",
+		"uniques": ["Improvement", "Only available <with [Pa res]>",
           "Gives a defensive bonus of [25]%"]
 	},
 {
