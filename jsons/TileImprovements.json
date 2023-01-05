@@ -3,48 +3,48 @@
   "name": "Elam Mausoleum",
   "culture": 2,
   "terrainsCanBeBuiltOn": ["Plains", "Desert"],
-  "uniques": ["Improvement", "Only available <with [Elam Mausoleum res]>", "Only available <after discovering [Masonry]>",
+  "uniques": ["Only available <with [Elam Mausoleum res]>", "Only available <after discovering [Masonry]>",
   "[+1 Culture] for each adjacent [Fort]"]
 }
 	{
 		"name": "Batey",
 		"culture": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
-		"uniques": ["Only available <with [Batey res]>", "Improvement", "[+1 Culture] for each adjacent [Bonus resource]", 
+		"uniques": ["Only available <with [Batey res]>", "[+1 Culture] for each adjacent [Bonus resource]", 
        "[+1 Culture] for each adjacent [Luxury resource]", "[+1 Culture] for each adjacent [Strategic resource]"]
-	},
-	{
+},
+{
 		"name": "Alcazar",
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
-		"uniques": ["Improvement", "Only available <with [Alcazar res]>", "[+1 Science] for each adjacent [Mountain]", 
+		"uniques": ["Only available <with [Alcazar res]>", "[+1 Science] for each adjacent [Mountain]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [20]%",
                 "Only available <with [1] to [6] neighboring [Mountain] tiles>", "Only available <after discovering [Chivalry]>"]
-	},
-	{
+},
+{
 		"name": "Mahavihara",
 		"science": 1,
 		"faith": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
-		"uniques": ["Improvement", "Only available <with [Mahavihara res]>", "[+1 Science] for each adjacent [City center]", 
+		"uniques": ["Only available <with [Mahavihara res]>", "[+1 Science] for each adjacent [City center]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>",
                  "Only available <after discovering [Education]>"]
-	}, 
-	{
+}, 
+{
 		"name": "Crafters' Guild",
 		"production": 1,
 		"gold": 1,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
-		"uniques": ["Improvement", "[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>",
+		"uniques": ["[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>",
           "[+1 Production] for each adjacent [Luxury resource]", "Only available <with [Crafters' Guild res]>",
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>",
           "Only available <after discovering [Guilds]>"]
-	},
+},
 {
 		"name": "Pa",
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
-		"uniques": ["Improvement", "Only available <with [Pa res]>",
+		"uniques": ["Only available <with [Pa res]>",
           "Gives a defensive bonus of [25]%"]
 	},
 {
