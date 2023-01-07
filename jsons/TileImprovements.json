@@ -11,7 +11,7 @@
 		"name": "Batey",
 		"culture": 1,
                 "turnsToBuild": 7,
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Food plains", "Hill"],
 		"uniques": ["Only available <with [Batey res]>", "[+1 Culture] for each adjacent [Bonus resource]", 
        "[+1 Culture] for each adjacent [Luxury resource]", "[+1 Culture] for each adjacent [Strategic resource]"]
 },
@@ -19,7 +19,7 @@
 		"name": "Alcazar",
 		"culture": 2,
                 "turnsToBuild": 7,
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Food plains", "Hill"],
 		"uniques": ["Only available <with [Alcazar res]>", "[+1 Science] for each adjacent [Mountain]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Alcazar] tiles>", "Gives a defensive bonus of [20]%",
                 "Only available <with [1] to [6] neighboring [Mountain] tiles>", "Only available <after discovering [Chivalry]>"]
@@ -29,7 +29,7 @@
 		"science": 1,
 		"faith": 1,
                 "turnsToBuild": 7,
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Hill"],
 		"uniques": ["Only available <with [Mahavihara res]>", "[+1 Science] for each adjacent [City center]", 
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mahavihara] tiles>",
                  "Only available <after discovering [Education]>"]
@@ -39,7 +39,7 @@
 		"production": 1,
 		"gold": 1,
                 "turnsToBuild": 7,
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Food plains", "Hill"],
 		"uniques": ["[+1 Production] <after discovering [Industrialization]>", "[+1 Gold] <after discovering [Economics]>",
           "[+1 Production] for each adjacent [Luxury resource]", "Only available <with [Crafters' Guild res]>",
 					"Cannot be built on [Land] tiles <with [1] to [6] neighboring [Crafters' Guild] tiles>",
@@ -49,7 +49,7 @@
 		"name": "Pa",
 		"culture": 2,
                 "turnsToBuild": 7,
-		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Food plains", "Hill"],
 		"uniques": ["Only available <with [Pa res]>",
           "Gives a defensive bonus of [25]%"]
 	},
@@ -81,7 +81,7 @@
 {
   "name": "Tibetan Kumbum",
   "turnsToBuild": 7,
-  "terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra"],
+  "terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Food plains", "Hill"],
   "uniques": ["Only available <with [Tibetan Kumbum res]>", "Only available <with [1] to [6] neighboring [Mountain] tiles>", 
   "[+1 Faith] for each adjacent [Mountain]", "Only available <after discovering [Theology]>"],
   "culture": 1,
