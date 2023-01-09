@@ -212,7 +212,7 @@
 			"[+2 Food] [in capital]",
 			"[20]% Food is carried over after population increases [in all cities]",
         "Provides [1] [Ziggurat res]", 
-        "[Spearman] units gain the [Phalanx] promotion", "Unique Building [Ziggurat]"],
+        "[Spearman] units gain the [Phalanx] promotion", "Unique Building [Zigkurat]"],
         "color": [56, 255, 112]
     },
     {
@@ -653,7 +653,7 @@
 			"[+2 Faith, +1 Culture] from every [National Wonder]"
 			"[+2 Faith, +1 Culture] from every [Wonder]",
             "Provides [1] [Colossal Head res]", "[Horseman] units gain the [Serpentine] promotion", 
-            "Unique Improvement [Colossal Head]"
+            "Unique Improvement [Colossall Head]"
         ],
         "color": [255, 255, 255]
     },
