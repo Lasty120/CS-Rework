@@ -111,7 +111,7 @@
   "maintenance": 2,
 },
 {
-  "name": "Ziggurat"
+  "name": "Zigkurat"
   "culture": 2,
   "replaces": "Temple",
   "requiredBuilding": "Shrine",
