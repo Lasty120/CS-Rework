@@ -88,7 +88,7 @@
   "faith": 1,
 },
 {
-  "name": "Colossal Head",
+  "name": "Colossall Head",
   "turnsToBuild": 7,
   "terrainsCanBeBuiltOn": ["Land"],
   "uniques": ["Only available <with [Colossal Head res]>", "[+1 Faith] for each adjacent [Jungle]", "Only available <after discovering [Theology]>", 
