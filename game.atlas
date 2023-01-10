@@ -597,7 +597,7 @@ BuildingIcons/Venetian Arsenal
   orig: 300, 300
   offset: 0, 0
   index: -1
-BuildingIcons/Ziggurat
+BuildingIcons/Zigkurat
   rotate: false
   xy: 620, 370
   size: 300, 300
@@ -975,7 +975,7 @@ ImprovementIcons/Cahokian Kurgan
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Colossal Head
+ImprovementIcons/Colossall Head
   rotate: false
   xy: 1144, 878
   size: 100, 100
