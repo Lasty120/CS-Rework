@@ -84,7 +84,7 @@
 		"cost": 100,
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
-    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Ziggurat]>"]
+    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Zigkurat]>"]
 	},
 {
 		"name": "Sapotec's Temple",
@@ -94,7 +94,7 @@
 		"cost": 100,
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
    "Only available <with [Sapotec's Temple res]>", "Only available <after discovering [Philosophy]>",
-    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Ziggurat]>",
+    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Zigkurat]>",
     "Only available <in cities without a [Temple]>", "[+1 Faith] from [Jungle] tiles [in this city]", 
     "[+1 Faith] from [Forest] tiles [in this city]", "[+1 Culture] from [Jungle] tiles [in this city]"]
 	},
@@ -107,7 +107,7 @@
   "cost": 100,
   "uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", 
   "Only available <with [Sinagoga res]>", "Only available <after discovering [Philosophy]>",
-  "Only available <in cities without a [Temple]>", "Only available <in cities without a [Ziggurat]>"],
+  "Only available <in cities without a [Temple]>", "Only available <in cities without a [Zigkurat]>"],
   "maintenance": 2,
 },
 {
