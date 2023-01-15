@@ -670,7 +670,7 @@
             "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Faith] <starting from the [Industrial era]>",
 			"Provides [1] [Cahokian Kurgan res]",
-        "Unique Improvement [Cahokian Kurgan]", "[Spearman] units gain the [Cahokian warrior]",
+        "Unique Improvement [Cahokian Kurgan]", "[Spearman] units gain the [Cahokian warrior] promotion",
         "[+20]% [Faith] [in all cities]"
         ],
         "color": [255, 255, 255]
