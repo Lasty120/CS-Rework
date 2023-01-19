@@ -1,4 +1,33 @@
 [
+{
+		"name": "Siam",
+		"leaderName": "Ramkhamhaeng",
+		"adjective": ["Siamese"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType":"Diplomatic",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You lowly, arrogant fool! I will make you regret of your insolence!",
+		"attacked": "You scoundrel! I shall prepare to fend you off!",
+		"defeated": "Although I lost, my honor shall endure. I wish you good luck.",
+		"introduction": "I, Pho Kun Ramkhamhaeng, King of Siam, consider it a great honor that you have walked to visit my country of Siam.",
+		"neutralHello": "Welcome.",
+		"hateHello": "Greetings.",
+		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+		"outerColor": [245, 230, 55],
+		"innerColor": [177, 8, 3],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Father Governs Children",
+		"uniques": ["[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States",
+                "Military Units gifted from City-States start with [+10] XP", "[+50]% [Science] from City-States", "[+50]% [Production] from City-States"],
+		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+        "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
+    },
 	//Cultural
 	{
 		"name": "Spectator",
