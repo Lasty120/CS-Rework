@@ -334,7 +334,7 @@
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
-			"[+2 Gold, +2 Culture] [in all cities] <in cities with a [World Wonder]>",
+			"[+2 Gold, +2 Culture] [in all cities] <in cities with a [Wonder]>",
         ],
         "allyBonusUniques": [
             "[+1 Happiness] <before the [Medieval era]>",
@@ -343,7 +343,7 @@
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Gold] <starting from the [Industrial era]>",
             "Provides a unique luxury",
-			"[+4 Gold, +4 Culture] [in all cities] <in cities with a [World Wonder]>",
+			"[+4 Gold, +4 Culture] [in all cities] <in cities with a [Wonder]>",
             "Provides [1] [Triumphal Arch res]", 
             "[Composite Bowman] units gain the [Khananei] promotion", "Unique Improvement [Triumphal Arch]"
         ],
