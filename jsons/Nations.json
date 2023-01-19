@@ -212,7 +212,7 @@
 	
 	//Mercantile
 	{
-		"name": "Venice",
+		"name": "Venicce",
 		"adjective": ["Venetian"],
 		"cityStateType": "Venice-type",
 		"startBias": ["Coast"],
@@ -222,7 +222,7 @@
 		"defeated": "A wrong calculation, on my part.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [167,204,23],
-		"cities": ["Venice"]
+		"cities": ["Venicce"]
 	},
 	{
 		"name": "Antwerp",
