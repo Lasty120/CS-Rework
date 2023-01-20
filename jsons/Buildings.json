@@ -111,7 +111,7 @@
   "maintenance": 2,
 },
 {
-  "name": "Zigkurat"
+  "name": "Ziggurat"
   "culture": 2,
   "replaces": "Temple",
   "requiredBuilding": "Shrine",
@@ -418,7 +418,7 @@
   "happiness": 2,
   "cost": 100,
   "uniques": ["Only available <with [40 judges Courthouse res]>", "Only available <after discovering [Mathematics]>",
-  "[+1 Happiness] per [5] population", "[+1 Gold] per [3] population"],
+  "[+1 Happiness] per [5] population [in this city]", "[+1 Gold] per [3] population [in this city]"],
   "maintenance": 1,
 },
 {
