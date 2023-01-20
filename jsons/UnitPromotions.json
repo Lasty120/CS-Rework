@@ -49,7 +49,7 @@
     },
 {
   "name": "Mong Dong",
-  "uniques": ["Can move after attacking <before discovering [Navigation]>", "[+15]% Strength <before discovering [Navigation]>"]
+  "uniques": ["[1] additional attacks per turn", "[+15]% Strength <before discovering [Navigation]>"]
     },
 {
   "name": "Afghan Air Defense",
@@ -211,7 +211,7 @@
 },
 {
   "name": "Zealot",
-  "uniques": ["Earn [50]% of the damage done to [Military] units as [Faith]"]
+  "uniques": ["Earn [50]% of the damage done to [Military] units as [Faith]", "[+20]% Strength <before discovering [Military Science]>"]
     },
 {
   "name": "Desert Bombard",
