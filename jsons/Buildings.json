@@ -84,7 +84,8 @@
 		"cost": 100,
 		"requiredTech": "Philosophy",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
-    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Zigkurat]>"]
+    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Zigguratt]>",
+    "Only available <in cities without a [Sapotec's Temple]>"]
 	},
 {
 		"name": "Sapotec's Temple",
@@ -94,7 +95,7 @@
 		"cost": 100,
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured",
    "Only available <with [Sapotec's Temple res]>", "Only available <after discovering [Philosophy]>",
-    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Zigkurat]>",
+    "Only available <in cities without a [Sinagoga]>", "Only available <in cities without a [Zigguratt]>",
     "Only available <in cities without a [Temple]>", "[+1 Faith] from [Jungle] tiles [in this city]", 
     "[+1 Faith] from [Forest] tiles [in this city]", "[+1 Culture] from [Jungle] tiles [in this city]"]
 	},
@@ -107,11 +108,12 @@
   "cost": 100,
   "uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", 
   "Only available <with [Sinagoga res]>", "Only available <after discovering [Philosophy]>",
-  "Only available <in cities without a [Temple]>", "Only available <in cities without a [Zigkurat]>"],
+  "Only available <in cities without a [Temple]>", "Only available <in cities without a [Zigguratt]>",
+  "Only available <in cities without a [Sapotec's Temple]>"],
   "maintenance": 2,
 },
 {
-  "name": "Ziggurat"
+  "name": "Zigguratt"
   "culture": 2,
   "replaces": "Temple",
   "requiredBuilding": "Shrine",
@@ -120,7 +122,8 @@
   "uniques": ["Only available <with [Ziggurat res]>", "Only available <after discovering [Philosophy]>",
   "Hidden when religion is disabled", "Destroyed when the city is captured",
   "Only available <in cities without a [Temple]>", 
-  "Only available <in cities without a [Sinagoga]>", "[+1 Faith] from [River] tiles [in this city]"],
+  "Only available <in cities without a [Sinagoga]>", "[+1 Faith] from [River] tiles [in this city]",
+  "Only available <in cities without a [Sapotec's Temple]>"],
   "maintenance": 2,
 },
 {
