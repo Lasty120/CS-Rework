@@ -40,12 +40,12 @@
     },
 {
   "name": "Maccabee",
-  "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith] <before discovering [Steel]>", 
-  "Earn [25]% of killed [Military] unit's [Cost] as [Faith] <after discovering [Steel]>"]
+  "uniques": ["Earn [30]% of killed [Military] unit's [Cost] as [Faith] <before discovering [Steel]>", 
+  "Earn [15]% of killed [Military] unit's [Cost] as [Faith] <after discovering [Steel]>"]
     },
 {
   "name": "Sagittaria",
-  "uniques": ["Can move after attacking"]
+  "uniques": ["Can move after attacking", "[+1] Movement"]
     },
 {
   "name": "Mong Dong",
@@ -57,8 +57,8 @@
     },
 {
   "name": "Orang Laut",
-  "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Gold] <before discovering [Astronomy]>", 
-  "Earn [25]% of killed [Military] unit's [Cost] as [Gold] <after discovering [Astronomy]>"]
+  "uniques": ["Earn [30]% of killed [Military] unit's [Cost] as [Gold] <before discovering [Astronomy]>", 
+  "Earn [15]% of killed [Military] unit's [Cost] as [Gold] <after discovering [Astronomy]>"]
     },
 {
   "name": "Shaolin",
@@ -80,7 +80,7 @@
     },
 {
   "name": "Finnish Sniper",
-  "uniques": ["[+2] Range", "[+10]% Strength <when fighting units from a Civilization with more Cities than you>"]
+  "uniques": ["[+1] Range", "[+10]% Strength <when fighting units from a Civilization with more Cities than you>"]
     },
 {
   "name": "Lapu-Lapu warrior",
@@ -93,7 +93,7 @@
     },
 {
   "name": "African Pirates",
-  "uniques": ["Earn [33]% of killed [Military] unit's [Cost] as [Gold]", "[+12]% Strength <before discovering [Combustion]>"]
+  "uniques": ["Earn [25]% of killed [Military] unit's [Cost] as [Gold]", "[+12]% Strength <before discovering [Combustion]>"]
     },
 {
   "name": "Bandeirants",
@@ -162,7 +162,7 @@
 },
 {
   "name": "Berber Pirates",
-  "uniques": ["[+20]% Strength <when fighting in [Coast] tiles>", "Earn [20]% of killed [Military] unit's [Cost] as [Faith]"]
+  "uniques": ["[+20]% Strength <when fighting in [Coast] tiles>", "Earn [12]% of killed [Military] unit's [Cost] as [Faith]"]
 },
 {
   "name": "Swiss Pikeman",
