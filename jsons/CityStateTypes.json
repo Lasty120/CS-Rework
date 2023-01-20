@@ -10,9 +10,9 @@
 			"[+5]% [Culture] from every [Amphitheater]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+5]% [Culture] from every [Monument]",
 			"[+5]% [Culture] from every [Amphitheater]",				
 			"[+5]% [Culture] from every [Opera House]",
@@ -31,9 +31,9 @@
 			"[+1 Culture] per [1] social policies adopted"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] per [1] social policies adopted",
         "Provides [1] [Imperialist Citadel res]", "[Galleass] units gain the [Mong Dong] promotion", 
             "Unique Building [Imperialist Citadel]"
@@ -49,9 +49,9 @@
 			"[+1 Culture] from every [Mine]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Mine]",
 			"[+1 Culture] from every [Strategic resource]",
             "Provides [1] [Batu Caves res]", "[Trireme] units gain the [Orang Laut] promotion", 
@@ -68,9 +68,9 @@
 			"[+1 Culture] from every [Shrine]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+1 Culture] from every [Shrine]", 
 			"[+2 Culture] from every [Temple]",
             "Provides [1] [Tibetan Kumbum res]", "[Longswordsman] units gain the [Shaolin] promotion", 
@@ -87,9 +87,9 @@
 			"[+2 Culture] from every [Walls]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every [Walls]",
 			"[+2 Culture] from every [Castle]",
              "Provides [1] [Sforza's Castle res]", "[Knight] units gain the [Milanese Knight] promotion", 
@@ -106,9 +106,9 @@
 			"[+2 Culture] from every specialist [in all cities]"
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
 			"[+2 Culture] from every specialist [in all cities]",
 			"[+2 Gold] from every [Artist]",
             "Provides [1] [Museum of Civilizations res]", "[Machine Gun] units gain the [Huota] promotion", 
@@ -125,9 +125,9 @@
             "[+1 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
         ],
         "allyBonusUniques": [
-            "[+4 Culture] <before the [Medieval era]>",
-            "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Culture] <starting from the [Industrial era]>",
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>",
             "[+2 Culture] from [Land] tiles [in all cities] <with [1] to [6] neighboring [Mountain] tiles>",
         "Provides [1] [Batey res]", "[Spearman] units gain the [Arawak] promotion", 
             "Unique Improvement [Batey]"
@@ -143,7 +143,7 @@
 			"[+1 Food] from every [Wine]",
 			"[+1 Food] from every [Citrus]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[+1 Food] from every [Plantation]",
         "Provides [1] [Ickanda res]", 
         "[Spearman] units gain the [Amabuto] promotion", "Unique Building [Ickanda]"],
@@ -155,7 +155,7 @@
 			"[+2 Food] [in capital]",
 			"[+10]% growth [in all cities]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[+20]% growth [in all cities]",
         "Provides [1] [Finnish Sauna res]", 
         "[Machine Gun] units gain the [Finnish Sniper] promotion", "Unique Building [Finnish Sauna]"],
@@ -167,7 +167,7 @@
 			"[+2 Food] [in capital]",
 			"[+1 Culture] from every [Lakes]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[+1 Culture] from every [Lakes]",
 			"[+1 Culture] from every [Water resource]",
         "Provides [1] [Fillipian Harbor rea]", 
@@ -180,7 +180,7 @@
 			"[+2 Food] [in capital]",
 			"[+1 Food] from every [Fishing Boats]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[+1 Food] from every [Fishing Boats]"
 			"[+1 Production] from every [Fishing Boats]",
         "Provides [1] [Museum of Tomorrow res]", 
@@ -194,9 +194,9 @@
 			"[+1 Gold] from every [Monument]"
 			"[+1 Gold] from every [Amphitheater]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
-			"[+1 Gold] from every [Monument]",
-			"[+1 Gold] from every [Amphitheater]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
+			"[+2 Gold] from every [Monument]",
+			"[+2 Gold] from every [Amphitheater]",
 			"[+1 Gold] from every [Opera House]",
 			"[+1 Gold] from every [Museum]",
         "Provides [1] [Sydney's Bridges res]", 
@@ -209,7 +209,7 @@
 			"[+2 Food] [in capital]",
 			"[10]% Food is carried over after population increases [in all cities]"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[20]% Food is carried over after population increases [in all cities]",
         "Provides [1] [Ziggurat res]", 
         "[Spearman] units gain the [Phalanx] promotion", "Unique Building [Zigguratt]"],
@@ -221,7 +221,7 @@
 			"[+2 Food] [in capital]",
 			"[+2 Gold] in cities on [River] tiles"],
         "allyBonusUniques": [
-			"[+2 Food] [in capital]",
+			"[+2 Food] [in capital]", "[+1 Food] [in all cities]",
 			"[+2 Gold] in cities on [River] tiles",
 			"[+2 Gold] in cities on [Coastal] tiles",
         "Provides [1] [Grenville-Iland res]", 
@@ -430,7 +430,7 @@
 			"Provides military units every ≈[20] turns"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 		],
         "color": [255, 0, 0]
     },
@@ -443,7 +443,7 @@
 			"[+3]% [Production] from every [Military Academy]"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 			"[+5]% [Production] from every [Barracks]",
 			"[+5]% [Production] from every [Armory]",
 			"[+5]% [Production] from every [Military Academy]",
@@ -459,7 +459,7 @@
 			"[+75]% Yield from every [Land] <in [Fort] tiles>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 			"[+150]% Yield from every [Land] <in [Fort] tiles>",
         "Provides [1] [Belgadian Citadel res]", "[Great War Infantry] units gain the [Slavic Guard] promotion", 
         "Unique Building [Belgadian Citadel]"
@@ -473,7 +473,7 @@
 			"[+10]% Strength <for [Melee] units>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 			"[+20]% Strength <for [Melee] units>",
        "[Swordsman] units gain the [Adageiros] promotion", "[Longswordsman] units gain the [Ambundu] promotion"
 		],
@@ -489,7 +489,7 @@
 			"[+50]% Production when constructing [Military Base] buildings [in all cities]"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 			"[+100]% Production when constructing [Walls] buildings [in all cities]",
 			"[+100]% Production when constructing [Castle] buildings [in all cities]",
 			"[+100]% Production when constructing [Arsenal] buildings [in all cities]",
@@ -506,7 +506,7 @@
 			"[+25]% Strength <vs cities>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 			"[+50]% Strength <vs cities>", 
        "Provides [1] [Castle-Wall res]", "[Crossbowman] units gain the [Difensur] promotion", 
        "Unique Building [Castle-Wall]"
@@ -520,7 +520,7 @@
 			"[+50]% XP gained from combat <when attacking>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns"
+			"Provides military units every ≈[17] turns"
 			"[+100]% XP gained from combat <when attacking>",
        "Provides [1] [Dar-ul-Aman res]", "[Helicopter Gunship] units gain the [Afghan Air Defense] promotion", 
         "Unique Building [Dar-ul-Aman]"
@@ -534,7 +534,7 @@
                 "[+2 Science] [in all cities] <in [Hill] tiles>"
 		],
         "allyBonusUniques": [
-			"Provides military units every ≈[20] turns",
+			"Provides military units every ≈[17] turns",
 			"[+4 Science] [in all cities] <in [Hill] tiles>",
         "Provides [1] [Alcazar res]", "[Crossbowman] units gain the [Granadian Army] promotion", 
             "Unique Building [Alcazar]"
@@ -555,9 +555,9 @@
 			"[Gold] cost of purchasing items in cities [-25]%"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[Gold] cost of purchasing items in cities [-25]%",
 			"[Faith] cost of purchasing items in cities [-25]%",
         "Provides [1] [Castles System res]", "[Knight] units gain the [Slavic Knight] promotion", 
@@ -574,9 +574,9 @@
 			"[+34]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+34]% Natural religion spread [in all cities]",
 			"[+34]% Spread Religion Strength",
             "Provides [1] [Sinagoga res]", "[Swordsman] units gain the [Maccabee] promotion", 
@@ -593,9 +593,9 @@
 			"Religion naturally spreads to cities [+2] tiles away",
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"Religion naturally spreads to cities [+4] tiles away",
             "Provides [1] [Monastic School res]", "[Knight] units gain the [Zealot] promotion", 
             "Unique Building [Monastic School]"
@@ -611,9 +611,9 @@
 			"[+1 Faith] from [Trading post] tiles [in all cities]",
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith] from [Trading post] tiles [in all cities]",
             "Provides [1] [Caravan Camp res]", "[Cannon] units gain the [Desert Bombard] promotion", 
             "Unique Building [Caravan Camp]"
@@ -629,9 +629,9 @@
 			"[+1 Faith] from every [Plantation]"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith] from every [Plantation]",
              "Provides [1] [Temple of the Tooth res]", "[Musketman] units gain the [Nuwara] promotion", 
             "Unique Building [Temple of the Tooth]"
@@ -647,9 +647,9 @@
 			"[+2 Faith, +1 Culture] from every [National Wonder]"
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"[+2 Faith, +1 Culture] from every [National Wonder]"
 			"[+2 Faith, +1 Culture] from every [Wonder]",
             "Provides [1] [Colossal Head res]", "[Horseman] units gain the [Serpentine] promotion", 
@@ -666,9 +666,9 @@
             "[+10]% [Faith] [in all cities]",
         ],
         "allyBonusUniques":  [
-            "[+4 Faith] <before the [Medieval era]>",
-            "[+8 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+16 Faith] <starting from the [Industrial era]>",
+            "[+6 Faith] <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>",
 			"Provides [1] [Cahokian Kurgan res]",
         "Unique Improvement [Cahokian Kurgan]", "[Spearman] units gain the [Cahokian warrior] promotion",
         "[+20]% [Faith] [in all cities]"
@@ -694,16 +694,16 @@
     {
         "name": "Anshan-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+1 Science] from every [Library]",
 			"[+1 Science] from every [University]",
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+1 Science] from every [Library]",
 			"[+1 Science] from every [University]",
 			"[+2 Science] from every [Public School]",
@@ -716,15 +716,15 @@
     {
         "name": "Bologna-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+5] HP when healing"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+10] HP when healing",
             "Provides [1] [Neptun Statue res]", "[Cavalry] units gain the [Mounted Velites] promotion", 
             "Unique Building [Neptun Statue]"
@@ -734,15 +734,15 @@
     {
         "name": "Fez-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"When spreading religion to a city, gain [5] times the amount of followers of other religions as [Science]"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]",
            "Provides [1] [Merdese res]", "[Privateer] units gain the [Berber Pirates] promotion", 
             "Unique Building [Merdese]"
@@ -752,15 +752,15 @@
     {
         "name": "Geneva-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+10]% [Science] <when not at war>"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+20]% [Science] <when not at war>",
         "Provides [1] [Palace of Nations res]", "[Pikeman] units gain the [Swiss Pikeman] promotion", 
             "Unique Building [Palace of Nations]"
@@ -770,15 +770,15 @@
     {
         "name": "Mitla-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+25 Gold, +25 Science] whenever a Great Person is expended"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+           "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+50 Gold, +50 Science] whenever a Great Person is expended",
         "Provides [1] [Sapotec's Temple res]", "[Spearman] units gain the [Sapotec] promotion", 
             "Unique Building [Sapotec's Temple]"
@@ -788,15 +788,15 @@
     {
         "name": "Hattusa-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
 			"[+1 Science] from every [Great Improvement]"
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+2 Science] from every [Great Improvement]",
            "Provides [1] [Lion Gate res]", "[Chariot Archer] units gain the [Hitties Chariot] promotion", 
             "Unique Building [Lion Gate]"
@@ -806,15 +806,15 @@
     {
         "name": "Nalanda-type",
         "friendBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+4 Science] <before the [Medieval era]>",
+            "[+8 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+16 Science] <starting from the [Industrial era]>",
             "[+1 Science] from all [Faith] buildings" 
         ],
         "allyBonusUniques":  [
-            "[+2 Science] <before the [Medieval era]>",
-            "[+4 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Science] <starting from the [Industrial era]>",
+            "[+6 Science] <before the [Medieval era]>",
+            "[+12 Science] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Science] <starting from the [Industrial era]>",
 			"[+2 Science] from all [Faith] buildings",
             "Provides [1] [Mahavihara res]", "[Horseman] units gain the [Kshatriya] promotion", 
             "Unique Building [Mahavihara]"
@@ -831,15 +831,15 @@
     {
         "name": "Industrial",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from all [Production] buildings"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] from all [Production] buildings"
         ],
         "color": [139,69,19]
@@ -847,15 +847,15 @@
     {
         "name": "Brussels-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+10]% Production when constructing [All] wonders [in all cities]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+20]% Production when constructing [All] wonders [in all cities]",
         "Provides [1] [Atomium res]", "[Pikeman] units gain the [Thrust] promotion", 
             "Unique Building [Atomium]"
@@ -865,15 +865,15 @@
     {
         "name": "Singapore-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] [in all cities connected to capital]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+4 Production] [in all cities connected to capital]",
             "Provides [1] [Trading Port res]", "[Caravel] units gain the [Pirate Hunter] promotion", 
             "Unique Building [Trading Port]"
@@ -883,15 +883,15 @@
     {
         "name": "Auckland-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from every [Coast]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+2 Production] from every [Coast]"
             "Provides [1] [Pa res]", "[Swordsman] units gain the [Intimidation] promotion", 
             "Unique Improvement [Pa]"
@@ -901,15 +901,15 @@
     {
         "name": "Hong Kong-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+10]% Production when constructing [All] buildings [in all cities]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+20]% Production when constructing [All] buildings [in all cities]",
             "Provides [1] [Entrepot res]", "[Rifleman] units gain the [Coastal Protector] promotion", 
             "Unique Building [Entrepot]"
@@ -919,15 +919,15 @@
     {
         "name": "Buenos Aires-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Happiness] from every [Bonus resource]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Happiness] from every [Bonus resource]",
 			"[+1 Happiness] from every [Strategic resource]",
             "Provides [1] [Ocupada Stable res]", "[Cavalry] units gain the [Gaucho] promotion", 
@@ -938,15 +938,15 @@
     {
         "name": "Johannesburg-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from every [Strategic resource]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+1 Production] from every [Bonus resource]",
 			"[+1 Production] from every [Strategic resource]",
 			"[+1 Production] from every [Luxury resource]",
@@ -958,15 +958,15 @@
     {
         "name": "Mexico City-type",
         "friendBonusUniques":  [
-            "[+2 Production] [in all cities] <before the [Medieval era]>",
-            "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+1 Production] [in all cities] <before the [Medieval era]>",
+            "[+2 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Production] [in all cities] <starting from the [Industrial era]>",
             "[+15]% Production when constructing [Production] buildings [in all cities]"
         ],
         "allyBonusUniques":  [
             "[+2 Production] [in all cities] <before the [Medieval era]>",
             "[+4 Production] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+6 Production] [in all cities] <starting from the [Industrial era]>",
+            "[+8 Production] [in all cities] <starting from the [Industrial era]>",
 			"[+30]% Production when constructing [Production] buildings [in all cities]",
             "Provides [1] [Crafters' Guild res]", "[Rifleman] units gain the [Ranchero] promotion", 
             "Unique Improvement [Crafters' Guild]"
