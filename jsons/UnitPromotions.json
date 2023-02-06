@@ -49,7 +49,7 @@
     },
 {
   "name": "Mong Dong",
-  "uniques": ["[1] additional attacks per turn", "[+15]% Strength <before discovering [Navigation]>"]
+  "uniques": ["[1] additional attacks per turn", "[-20]% Strength <when attacking> <before discovering [Navigation]>"]
     },
 {
   "name": "Afghan Air Defense",
