@@ -306,7 +306,7 @@
   "name": "Island Tourism",
   "cost": 160,
   "uniques": ["Only available <with [Island Tourism res]>", "Only available <after discovering [Compass]>",
-  "[+2 Gold] from [Land] tiles <with [4] to [6] neighboring [Coast] tiles> [in this city]", "[+1 Gold] from [Atoll] tiles [in this city]"],
+  "[+2 Gold] from [Land] tiles [in this city] <with [4] to [6] neighboring [Coast] tiles>", "[+1 Gold] from [Atoll] tiles [in this city]"],
   "maintenance": 1,
 },
 {
